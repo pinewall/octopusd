@@ -1,0 +1,13 @@
+// $Id$
+// vim:ft=javascript
+
+// If your extension references something external, use ARG_WITH
+// ARG_WITH("octopus", "for octopus support", "no");
+
+// Otherwise, use ARG_ENABLE
+// ARG_ENABLE("octopus", "enable octopus support", "no");
+
+if (PHP_OCTOPUS != "no") {
+	EXTENSION("octopus", "octopus.c");
+}
+

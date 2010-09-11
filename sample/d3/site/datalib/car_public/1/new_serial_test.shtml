@@ -1,0 +1,898 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="北京现代,北京现代汽车报价,车型,新闻,图片,新车,热门车,参数,配置,排行,论坛">
+<meta name="description" content="北京现代品牌页面,包含北京现代汽车报价,北京现代品牌简介,新车上市,热门车排行及新闻等相关内容">
+<title>北京现代_北京现代品牌_腾讯汽车频道</title>
+<link href="http://auto.qq.com/css/datalib/autodata_m.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+<script>
+Cookie.setCookie("BrandID", "93");
+Cookie.clearCookie("SerialID");
+Cookie.clearCookie("ModelID");
+</script>
+<style>
+#fods #Fod_list div{text-align:center;float:left;cursor:pointer;font-weight:bold;line-height:20px;}
+#fods #Fod_list p{width:6px;float:left;height:20px;margin:0;padding:0;}
+#fods #Fod_list div.carda{height:21px;padding-top:3px;background:url(http://mat1.qq.com/auto/datalib/new_lib/card_00.gif);border:#353535 1px solid;border-bottom:none;color:#fff; text-decoration:none;}
+#fods #Fod_list .sa{height:20px;padding-top:3px;background:#ffffff;border-top:#787878 2px solid;border-left:#bfc2c9 1px solid;border-right:#bfc2c9 1px solid;color:#4e4e4e;}
+
+
+#fods ul,li,p{list-style-type:none;margin:0;padding:0;}
+.dis{display:block}
+.undis{display:none;}
+</style>
+<script language="javascript">
+		  function foda(obj)
+		  {
+			var pa = obj.parentNode.parentNode.parentNode.parentNode;
+			var pa1 = obj.parentNode.getElementsByTagName("div");
+			var ta = pa.getElementsByTagName("tr")[1].getElementsByTagName("ul");
+			var na = pa1.length;
+			for(i=0;i<na;i++)
+			{
+				if(pa1[i] == obj)
+				{
+					pa1[i].className = "sa";
+					ta[i].className = "dis";
+				}
+				else
+				{
+					pa1[i].className = "carda";
+					ta[i].className = "undis";				
+				}
+			}
+		  }
+</script>
+</head>
+
+<body>
+<link href="http://auto.qq.com/css/aotindex910.css" rel="stylesheet" type="text/css">
+<style>
+#MiniPublicTopTab{width:100%;height:33px;text-align:center;background:url(http://mat1.qq.com/www/images/public/bg.gif) #fff repeat-x;}
+#MiniPublicTop{width:910px;margin:0 auto;font-family:"宋体";font-size:12px;color:#000;height:33px;line-height:12px;clear:both;} 
+#MiniPublicTop a.mLink{color:#828282;text-decoration:none;}
+#MiniPublicTop a.mLink:hover{color:red;}
+#MiniPublicTop #miniLogo{float:left;background:#fff;} 
+#MiniPublicTop #miniLogo img{border:0;height:33px;} 
+#MiniPublicTop #miniLink{float:right;padding:12px 8px 0 0;}
+#MiniPublicTop #miniLink span{padding:0 10px 0 5px;background:url(http://mat1.qq.com/www/images/public/line.gif) no-repeat right top;}
+#MiniPublicTop #miniLink span.mEnd{background:none;}
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" id="MiniPublicTopTab" style="display:none">
+  <tr>
+    <td>
+		<div id="MiniPublicTop">
+			<div id="miniLogo"><a href="http://auto.qq.com" target="_self"><img src="http://mat1.qq.com/www/images/public/logo/logo_auto.gif" alt="腾讯汽车频道" /></a></div>
+			<div id="miniLink">
+				<span><a href="http://auto.qq.com" target="_self" class="mLink">汽车频道</a></span>
+				<span><a href="http://www.qq.com" target="_self" class="mLink">腾讯首页</a></span>
+				<span class="mEnd"><a href="http://www.qq.com/map" target="_blank" class="mLink">全站导航</a></span>
+			</div>
+		</div>
+	</td>
+  </tr>
+</table>
+
+<!--topend1-->
+<div id="first">
+<div id="auto_top2" style="display:none">
+<table width="910" border="0" align="center" cellpadding="0" cellspacing="0" class="automgt8" id="autogrey">
+  <tr>
+    <td width="728"><iframe width=728 height=90 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no src="http://adsview.qq.com/adsview?c=auto&l=Auto_Width1&log=off"></iframe></td>
+    <td class="autoline00 autfontgrey2 autpadd15px"><script language="javascript" src="http://adstextview.qq.com/adsview?c=www&l=auto_top.htm&log=off"></script>
+<!--<script src="http://adsview.qq.com/adsview?c=auto&l=Auto_TOP_Text1&log=off  "></script>-->
+<!--<script src="http://adsview.qq.com/adsview?c=www&l=Auto_TOP_Text2&log=off  "></script>-->
+<!--<script src="http://adsview.qq.com/adsview?c=www&l=Auto_TOP_Text3&log=off  "></script>-->
+<!--<script src="http://adsview.qq.com/adsview?c=www&l=Auto_TOP_Text4&log=off  "></script>-->
+</td>
+  </tr>
+</table>
+</div>
+</div>
+
+<div id="cq_top" style="margin-bottom:7px;display:none">
+<style type="text/css">
+<!--
+a.nav{padding:0 9px 0 7px;}
+a.navlink{padding:0 9px 0 7px;background:url(http://mat1.qq.com/www/images/2006/n_ew.gif) no-repeat right top;}
+
+.pt12h20_ye {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFF00;
+	text-decoration: none;
+}
+a.pt12h20_ye:link,a.pt12h20_ye:visited {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFF00;
+	text-decoration: none;
+}
+a.pt12h20_ye:hover {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.pt12h20_black {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+a.pt12h20_black:link,a.pt12h20_black:visited {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: none;
+}
+a.pt12h20_black:hover {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FF0000;
+
+	text-decoration: underline;
+}
+.pt12h20_white {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.pt12h20_white:link,a.pt12h20_white:visited {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+a.pt12h20_white:hover {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FFFF00;
+	text-decoration: underline;
+}
+.pt12h20_red {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.pt12h20_red:link,a.pt12h20_red:visited {
+	font-size: 12px;
+	line-height: 20px;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.pt12h20_red:hover {
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+	text-decoration: underline;
+}
+-->
+</style>
+
+
+
+<table width="910" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td width="213" height="99" valign="top"><a href="http://cq.qq.com/"><img src="http://mat1.qq.com/cq/images/dayuw07/ind040001.gif" width="213" height="99" border="0"></a></td>
+    <td width="697" valign="top"><table width="697" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="45">
+		
+		
+		<table width="697" border="0" cellspacing="0" cellpadding="0">
+		
+          <tr>
+            <td width="14" height="45" background="http://mat1.qq.com/cq/images/dayuw07/ind040002.gif">&nbsp;</td>
+            <td width="683" background="http://mat1.qq.com/cq/images/dayuw07/ind040003.gif"> 
+			
+			
+					<!--首页top搜索页面片-->
+					<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+    <form method="get" action="http://www.soso.com/q" target=_blank>
+              <tr>
+                <td width="65"><span class="pt12h20_black">大渝搜索</span></td>
+                <td width="182"><input type="text" name="w" style="BORDER-RIGHT: #41A0E0 1px solid; BORDER-TOP: #41A0E0 1px solid; BORDER-LEFT: #41A0E0 1px solid; BORDER-BOTTOM: #41A0E0 1px solid" size="25" /></td>
+                <td width="58"><input name="submit" type="image" value="QQ搜索" src="http://mat1.qq.com/cq/images/dayuw07/ind040004.gif" align="absbottom" width="42" height="20" border="0"></td>
+                <td width="100"><a href="http://www.soso.com" target="_blank"><img src="http://mat1.qq.com/cq/images/dayuw07/ind040005.gif" width="84" height="25" border="0" /></a></td>
+                <td><span class="pt12h20_black"><a href="#" onClick="javascript:this.style.behavior='url(#default#homepage)';this.setHomePage('http://cq.qq.com/')" class="pt12h20_black">设为首页</a>|<a href="#" onClick="javascript:window.external.AddFavorite('http://cq.qq.com/', '腾讯·大渝网--城市生活第一网')" class="pt12h20_black">加入收藏</a></span></td>
+                <td><a href="http://cq.house.qq.com/house" target="_blank" class="pt12h20_red">[房产]</a><a href="http://cq.tour.qq.com/trip/" target="_blank" class="pt12h20_red">[旅游]</a><a href="http://cq.shop.qq.com/shop" target="_blank" class="pt12h20_red">[商业]</a><a href="http://cq.digi.qq.com/3c/" target="_blank" class="pt12h20_red">[IT数码]</a></td>
+				
+              </tr><input type="hidden" name="site" value="cq">  
+                    <input type="hidden" name="sc" value="qq"> 
+                    <input type="hidden" name="ch" value="w.q.cq"></form>
+            </table>
+			
+			
+			</td>
+          </tr>
+             
+        </table>
+		
+		</td>
+      </tr>
+      <tr>
+        <td height="3"></td>
+      </tr>
+      <tr>
+        <td height="51" valign="top"><table width="697" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="697" height="24" background="http://mat1.qq.com/cq/images/dayuw07/ind040006.gif"><table width="697" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="5" height="24">&nbsp;</td>
+                <td style="line-height:20px; font-size:12px;" align="left" class="pt12h20_black nav"><a href="http://cq.qq.com" class="pt12h20_black nav">首页</a>|<a href="http://cq.qq.com/news.htm" class="pt12h20_black nav">新闻</a>|<a href="http://cq.qq.com/bbs/" target="_blank" class="pt12h20_black nav">Qbar</a>|<a href="http://cq.qq.com/pinglun.htm" class="pt12h20_black nav">评论</a>|<a href="http://cq.ent.qq.com/tv.htm" class="pt12h20_black nav">娱乐</a>|<a href="http://cq.eat.qq.com/eat/" class="pt12h20_black nav">餐饮</a>|<a href="http://cq.health.qq.com/cqhealth/health.htm" class="pt12h20_black nav">健康</a>|<a href="http://cq.qq.com/cqmobile/newmobile.htm" class="pt12h20_black nav">无线</a>|<a href="http://cq.edu.qq.com/edu/" class="pt12h20_black navlink">教育</a>|<a href="http://cq.qq.com/vod/video.htm" class="pt12h20_black nav">视频</a>|<a href="http://cq.shop.qq.com/shop/sogo5/index.htm" class="pt12h20_black nav">搜购星期五</a>|<a href="http://cq.shop.qq.com/shop/streets.htm" class="pt12h20_black nav">搜街一族</a>|<a href="http://cq.edu.qq.com/education/abc/" class="pt12h20_black nav">英语沙龙</a></td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td height="3"></td>
+          </tr>
+          <tr>
+            <td height="24" background="http://mat1.qq.com/cq/images/dayuw07/ind040007.gif"><table width="697" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="5" height="24">&nbsp;</td>
+                <td align="left" class="pt12h20_white nav"><a href="http://cq.house.qq.com/house" class="pt12h20_white nav">房产</a>|<a href="http://cq.auto.qq.com/auto" class="pt12h20_white nav">汽车</a>|<a href="http://cq.digi.qq.com/3c/" class="pt12h20_white nav">IT数码</a>|<a href="http://cq.shop.qq.com/shop/" class="pt12h20_white nav">商业街</a>|<a href="http://qq.tcw023.com/" class="pt12h20_white nav">彩票中心</a>|<a href="http://job.cq.qq.com/" class="pt12h20_white navlink">招聘</a>|<a href="http://cq.tour.qq.com/trip/" class="pt12h20_white nav">旅游</a>|<a href="http://cq.newhome.qq.com/newhome/" class="pt12h20_white nav">家居</a>|<a href="http://cq.money.qq.com/money/" class="pt12h20_white nav">理财</a>|<a href="http://game.cq.qq.com/game/" target="_blank" class="pt12h20_white nav">游戏中心</a>|<a href="http://cq.house.qq.com/house/video.htm" target="_blank" class="pt12h20_white nav">房产视频</a>|<a href="http://cqsbepaper.cqnews.net/" target="_blank" class="pt12h20_white nav">商报电子版</a></td>
+              </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+
+
+</div>
+
+<!--topend2-->
+<div id="first">
+	<table width="910" border="0" cellspacing="0" cellpadding="0">
+  		<tr>
+    		<td width="184" height="31" background="http://mat1.qq.com/auto/datalib/new_lib/autodata_logo.gif"><a href="/car_brand/index.shtml"><img src="http://mat1.qq.com/auto/datalib/new_lib/autodata_logo.gif" alt="车型库首页" width="184" height="31" border="0" /></a></td>
+   			<td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a11.gif"></td>
+    		<td align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a12.gif" id="nav_link"><a href="/car_brand/index.shtml">首页</a>|<a href="/car_serial/index.shtml">车型大全</a>|<a href="/car_public/1/piclib.shtml" target="_blank">汽车图库</a>|<a href="/car_public/1/calc.shtml">虚拟购车</a>|<a href="/car_public/1/compare.shtml">车型对比</a>|<a href="/car_public/1/gouche.shtml">购车向导</a>|<a href="http://auto.qq.com/QAA/qaa.htm" target="_blank">互助答疑</a>|<a href="/car_public/1/bbs.shtml" target="_blank">车友论坛</a></td>
+  		</tr>
+	</table>
+</div>
+
+<script>
+var sDomain = window.location.href;
+if(sDomain.indexOf("datalib.cq.qq.com") != -1)
+{
+	$("cq_top").style.display = "";
+	document.title="腾讯·大渝网";
+}
+else
+{
+	$("MiniPublicTopTab").style.display = "";
+	$("auto_top2").style.display = "";
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+function checkKeywordSearch() {
+	var sFilterAttrAND="";
+	var sFilterValueAND="";
+	var sKeyValue = document.frmKeywordSearch.keyvalue.value;
+	if (sKeyValue != "" && sKeyValue != document.frmKeywordSearch.keyvalue.defaultValue) {
+		var arrKey = sKeyValue.split(" ");
+		for(var i=0;i<arrKey.length;i++){
+			if(arrKey[i].trim() != "") {
+				sFilterAttrAND += (sFilterAttrAND == "") ? "1833" : "|1833";
+				sFilterValueAND += (sFilterValueAND == "") ? arrKey[i].trim() : "|" + arrKey[i].trim();
+			}
+		}	
+	} else {
+		alert("请输入车型关键字");
+		return false;
+	}
+	document.frmKeywordSearch.FilterAttrAND.value = sFilterAttrAND;
+	document.frmKeywordSearch.FilterValueAND.value = sFilterValueAND;
+	$("Ansy_Log_Frame").src="/cgi-bin/car_public/log_keyword?libid=88&keyword=" + sKeyValue;
+	return true;
+}
+</script>
+<iframe id="Ansy_Log_Frame" name="Ansy_Log_Frame" src="about:blank" style="display:none;"></iframe>
+<div id="first1">
+  <table width="908" border="0" align="center" cellpadding="0" cellspacing="0" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a13.gif" style="border:#fff 1px solid;">
+  <form name="frmKeywordSearch" method="get" action="/cgi-bin/search" onSubmit="return checkKeywordSearch();" target="_blank">
+    <tr align="left">
+      <td width="100" height="44" align="right" class="fontbold">按车型搜索：</td>
+      <td width="220"><input name="keyvalue" type="text" value="请输入车型关键字" onFocus="clearInput(this)" onBlur="resetInput(this)" style="width:125px;line-height:14px;">
+	   <input type="image" src="http://mat1.qq.com/auto/datalib/new_lib/botton_01.gif" width="51" height="20" border="0" align="absmiddle" /></td>
+      <td width="182">按价格
+         <select name="sltPriceArea" id="sltPriceArea" style="width:122px;" onChange="setBrandList(this.value)">
+                    <option selected value="">所有价位</option>
+					<option value="5万以下">5万以下</option>
+					<option value="5-10万">5-10万</option>
+					<option value="10-15万">10-15万</option>
+					<option value="15-20万">15-20万</option>
+					<option value="20-30万">20-30万</option>
+					<option value="30-50万">30-50万</option>
+					<option value="50万以上">50万以上</option>					
+                  </select>
+
+		</td>
+      <td width="404">按品牌
+        <select name="sltBrand" id="sltBrand" style="width:128px;" onChange="setModelList($('sltPriceArea').value,this.value)">
+                    <option value="">--国内\国外品牌--</option>
+                   
+                  </select>        
+				  <select name="sltModel" id="sltModel" style="width:152px;" disabled>
+                     <option value="">-----请选择-----</option>
+                  </select>
+<script>initBrandList();</script>
+        <a href="#" OnClick="return sltSearch();"><img src="http://mat1.qq.com/auto/datalib/new_lib/botton_02.gif" width="51" height="20" border="0" align="absmiddle" /></a> </td>
+    </tr>
+	<input name="FilterValueAND" type="hidden" value="">
+	<input name="FilterAttrAND" type="hidden" value="">
+	<input name="libid" type="hidden" value="88">
+	<input name="orderby" type="hidden" value="F1834 desc, F1832, F1991 0">
+	<input type="hidden" name="tname" value="search_keyword.shtml"/ >
+ </form>
+  </table>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="pos"><a href="http://auto.qq.com" target="_blank">腾讯汽车</a> &gt;&gt; <a href="/car_brand/index.shtml">车型库</a> &gt;&gt; 北京现代</div>
+<div id="first">
+  <table width="910" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6" height="30" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b11.gif"></td>
+      <td width="231" align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b12.gif" ><h1>北京现代<script>
+if("国产" == "进口")
+{
+     document.write("(进口)");
+}
+</script></h1>
+</td>
+      <td width="16" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b13.gif"></td>
+      <td width="571" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" class="fontwhite fontbold"><script>
+if("http://www.beijing-hyundai.com.cn/index.jsp"!="")
+{
+	document.write('<span class="fl"><a target="_blank" href="http://www.beijing-hyundai.com.cn/index.jsp" class="fontwhite" title="北京现代官方网站">&gt;&gt; 官方网站</a></span>');
+}
+</script>
+	  </td>
+	  <td width="80" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" ><img src="http://mat1.qq.com/auto/datalib/new_lib/er01.gif" width="12" height="14" border="0" align="absmiddle"> <a class="whitenl" href="/car_public/1/bug.shtml" target="_blank">数据纠错</a></td>
+      <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b15.gif"></td>
+    </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+<table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+        <tr>
+          <td width="245" height="239" align="center" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b41.gif" class="tdk01"><table width="220" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="center"><a target="_blank" href="detail.shtml"><img src="/car_brand/pic/info/2007-09-04/2007090414561291586618112.gif" alt="北京现代简介" width="220" height="175" border="0" class="img3" /></a></td>
+            </tr>
+              <tr>
+               <td height="32" align="center" valign="bottom" class="fontgrey">
+			   生产厂家：
+			   <script>
+if("北京现代汽车公司"!="")
+{
+	document.write('北京现代汽车公司');
+}
+else
+{
+	document.write('暂无资料');
+}
+</script>
+			 </td>
+              </tr>
+            </table>
+          </td>
+          <td width="9"></td>
+          <td width="419" align="center" valign="top" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b42.gif" class="tdk01 tbgtx"><table width="394" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="30" align="left" valign="bottom" class="fontbold fontgrey">北京现代简介:</td>
+            </tr>
+            <tr>
+              <td height="87" class="fontl24 fontgrey">
+<div id="intro" style="display:none;margin:0;padding:0">　　在韩国只有5个生产汽车的厂商，作为韩国最大汽车企业的现代汽车公司，是全球20大汽车公司之一，2001年在美国市场排名第七。与全球其它领先的汽车公司相比，创立于1967年的现代汽车历史很短。但它的历程却浓缩了汽车产业的发展史，它从建立工厂到能够独立自主开发车型用了18年。2000年，现代汽车在中国设立了现代、起亚“中国本部”，着力开拓中国市场。2002年现代汽车与北京汽车工业控股有限责任公司合资建立了北京现代汽车有限公司。 
+<br/>　　
+<br/>　　2000年，现代汽车在中国设立了现代、起亚“中国本部”，着力开拓中国市场。目前该公司在国内已开设了60多个服务网点，供应车辆修理设备和正统零部件。更重要的而是，2002年现代汽车与北京汽车工业控股有限责任公司合资建立了北京现代汽车有限公司，并且得到了国家相关部委和北京市的全力支持。据悉，北京现代汽车有限公司的年生产能力预计为10万辆，并计划在2005年将产量提高到20万辆。目前，现代索纳塔和伊兰特轿车销售势头良好，伊兰特甚至还在中国车市惨淡的10逆市反弹，取的月售1.3万辆的佳绩。</div>
+		<script>
+			var o = document.getElementById("intro");
+			var s = o.innerHTML;
+			if(s != "")
+			{
+				o.innerHTML = s.substring(0, 88) + "...";
+				o.innerHTML += '[<span class="fontblue"><a href="detail.shtml" target="_blank" class="blackredul">详细</a>]</span>';	
+			}
+			else
+			{
+				o.innerHTML = "暂无简介";
+			}	
+			o.style.display = "block";		
+			 
+			</script>
+ 
+			  </td>
+            </tr>
+          </table>
+            <table width="417" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="24" valign="bottom" bgcolor="#f2f2f2" class="tdk01b fontgrey fontpp12"><span class="fl fontbold">北京现代相关新闻:</span><span class="fr"><a href="http://www.soso.com/q?gid=&cin=&sc=qq&bs=&num=10&ch=w.soso.pr&w=北京现代&site=auto" class="fontgrey red" target="_blank" title="查看所有北京现代相关新闻">更多&gt;&gt;</a></span></td>
+              </tr>
+              <tr>
+                <td height="96" align="center">
+				<table width="386" border="0" cellpadding="0" cellspacing="0" id="links02">
+<tr>
+<td class="fontl24" width="300"><div style="width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a target="_blank" class="fontl24" href="http://auto.qq.com/a/20080108/000072.htm" title="产能扩张限制松绑 吉利北现新工厂均获批">产能扩张限制松绑 吉利北现新工厂均获批</a>
+</div></td>
+<td width="86" align="right">01月08日
+	</td>
+</tr>
+<tr>
+<td class="fontl24" width="300"><div style="width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a target="_blank" class="fontl24" href="http://auto.qq.com/a/20071219/000098.htm" title="新品新厂同时启动 北京现代迎来全面起跳">新品新厂同时启动 北京现代迎来全面起跳</a>
+</div></td>
+<td width="86" align="right">12月19日
+	</td>
+</tr>
+<tr>
+<td class="fontl24" width="300"><div style="width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a target="_blank" class="fontl24" href="http://auto.qq.com/a/20071218/000018.htm" title="北京现代i30明年7月国产 售价低于伊兰特">北京现代i30明年7月国产 售价低于伊兰特</a>
+</div></td>
+<td width="86" align="right">12月18日
+	</td>
+</tr>
+<tr>
+<td class="fontl24" width="300"><div style="width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">·<a target="_blank" class="fontl24" href="http://auto.qq.com/a/20071212/000060.htm" title="发改委公布今年最大新车目录  78款轿车上榜">发改委公布今年最大新车目录  78款轿车上榜</a>
+</div></td>
+<td width="86" align="right">12月12日
+	</td>
+</tr>
+</table>
+
+
+
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+    </table>
+	<table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8"><tr><td align="center" valign="top" class="tdk01nt"><table width="671" border="0" cellspacing="0" cellpadding="0" id="fods"  style="display:none"><tr><td height="32" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/cardbg.gif" id="Fod_list">&nbsp;</td>
+            </tr><tr><td height="179" align="center" id="disp_pic_lib"><ul class="undis">
+            </ul>
+                <ul class="undis">
+                </ul>
+                <ul class="undis">
+                </ul></td>
+            </tr>
+	</table>
+            </td>
+      </tr>
+	</table>
+	<table width="673" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td><table width="673" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="673"><table width="673" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="35" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"></td>
+                  <td width="197" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px"><a href="/car_public/1/piclib.shtml?sid=204&tid=37" target="_blank" class="blackrednl" title="查看Mazda3所有图片">Mazda3图库</a></td>
+                  <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+                  <td align="right" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif">&nbsp;</td>
+                  <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+                </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="center" valign="top" class="tdk01nt"><table width="671" border="0" cellspacing="0" cellpadding="0" id="fods2"  style="display:none">
+                <tr>
+                  <td height="32" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/cardbg.gif" id="Fod_list2"><p style="float:left;width:20px;"></p>
+                      <div onClick="foda(this)" class="sa" style="font-weight:normal;width:108px;" id="disp_cswg_count"> 车身外观</div>
+                    <p></p>
+                    <div onClick="foda(this)" class="carda" style="font-weight:normal;width:108px;" id="disp_zkfxp_count">中控方向盘</div>
+                    <p></p>
+                    <div onClick="foda(this)" class="carda" style="font-weight:normal;width:108px;" id="disp_cxzy_count">车厢座椅</div>
+                    <p></p>
+                    <div onClick="foda(this)" class="carda" style="font-weight:normal;width:108px;" id="disp_qtgz_count">其它与改装</div>
+                    </p>
+                      <div onClick="foda(this)" class="carda" style="font-weight:normal;width:108px;" id="disp_upload_count">网友上传</div></td>
+                </tr>
+                <tr>
+                  <td height="179" align="center" id="disp_pic_lib2"><ul class="dis">
+                      <li id="disp_cswg_pic"> </li>
+                  </ul>
+                      <ul class="undis">
+                        <li id="disp_zkfxp_pic"> </li>
+                      </ul>
+                    <ul class="undis">
+                        <li id="disp_cxzy_pic"> </li>
+                    </ul>
+                    <ul class="undis">
+                        <li id="disp_qtgz_pic"> </li>
+                    </ul>
+                    <ul class="undis">
+                        <li id="disp_upload_pic"> </li>
+                    </ul></td>
+                </tr>
+              </table>
+                <script>//<![CDATA[
+				  		dispPicLib();
+				  //]]>
+				  </script>
+                <table style="display:none;" id="nofods">
+                  <tr>
+                    <td align="center">暂无图片</td>
+                  </tr>
+              </table></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td class="tdk01nt">
+		 <!--#include virtual="new_modules_list.shtml"-->
+        
+        </td>
+      </tr>
+    </table>
+	</div>
+  <div id="first_right">
+      <table width="229" border="0" cellpadding="0" cellspacing="0" class="marb9">
+<tr><td><table width="229" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="38" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21a.gif"></td>
+<td width="185" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontbold fontl26">本品牌上市新车</td>
+<td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+</tr></table></td></tr>
+<tr><td align="center" valign="top" class="tdk01nt">
+<table width="210" border="0" cellpadding="0" cellspacing="0" class="marb10"><tr align="center">
+<td width="105" height="95" align="left" class="fontl24">
+<a target="_blank" href="/car_models/7802/index.shtml"><img width="90" height="70" class="img4" border="0" onError="this.src='http://mat1.qq.com/auto/datalib/new_lib/none.gif'" src="Http://data.auto.qq.com/car_models/pic/info/2007-12-26/2007122616453907209818352.jpg" alt="途胜 2.0 两驱自动天窗"></a><br></td>
+<td width="105" align="left" class="fontl24">
+<a target="_blank" class="fontgrey nl red" href="/car_models/7802/index.shtml" title="途胜 2.0 两驱自动天窗">途胜<br>2.0 两驱自动天窗</a><br><span class="fontred">18.38</span>万
+								</td>
+</tr></table><table width="227" border="0" cellpadding="0" cellspacing="0" id="cxlist02"><tr bgcolor="#f2f2f2"><td width="140" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5463/index.shtml" title="雅绅特 1.4手动豪华型">雅绅特&nbsp;1.4手动豪华型</a></div></td>
+<td width="87" style="text-align:right">
+<span class="fontred">9.08</span>&nbsp;万</td></tr><tr><td width="140" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5471/index.shtml" title="雅绅特 1.4自动尊贵型">雅绅特&nbsp;1.4自动尊贵型</a></div></td>
+<td width="87" style="text-align:right">
+<span class="fontred">10.59</span>&nbsp;万</td></tr><tr bgcolor="#f2f2f2"><td width="140" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5509/index.shtml" title="伊兰特 Sports1.6手动豪华">伊兰特&nbsp;Sports1.6手动豪华</a></div></td>
+<td width="87" style="text-align:right">
+<span class="fontred">11.18</span>&nbsp;万</td></tr><tr><td width="140" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5512/index.shtml" title="伊兰特 Sports1.6自动豪华">伊兰特&nbsp;Sports1.6自动豪华</a></div></td>
+<td width="87" style="text-align:right">
+<span class="fontred">12.38</span>&nbsp;万</td></tr></table></td></tr>
+</table>
+
+
+  
+	  <table width="229" border="0" cellpadding="0" cellspacing="0" class="marb8">
+<tr><td><table width="229" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="38" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21a.gif"></td>
+<td width="185" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontbold fontl26">本品牌热门车</td>
+<td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+</tr></table></td></tr>
+<tr><td align="center" valign="top" class="tdk01nt">
+<table width="210" border="0" cellpadding="0" cellspacing="0" class="marb6"><tr align="center">
+<td width="105" height="95" align="left" class="fontl24">
+<a target="_blank" href="/car_models/5515/index.shtml"><img width="90" height="70" class="img4" border="0" onError="this.src='http://mat1.qq.com/auto/datalib/new_lib/none.gif'" src="Http://data.auto.qq.com/car_models/pic/info/2007-10-09/2007100916024838514218352.jpg" alt="伊兰特 1.6 手动舒适型"></a><br></td>
+<td width="105" align="left" class="fontl24">
+<a target="_blank" class="fontgrey nl red" href="/car_models/5515/index.shtml" title="伊兰特 1.6 手动舒适型">伊兰特<br>1.6 手动舒适型</a><br><span class="fontred">10.48</span>万
+								</td>
+</tr></table><table width="227" border="0" cellpadding="0" cellspacing="0" id="cxlist02"><tr bgcolor="#f2f2f2"><td width="147" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5450/index.shtml" title="雅绅特 1.4手动基本型">雅绅特&nbsp;1.4手动基本型</a></div></td>
+<td width="80" style="text-align:right">
+<span class="fontred">7.28</span>&nbsp;万</td></tr><tr><td width="147" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/7802/index.shtml" title="途胜 2.0 两驱自动天窗">途胜&nbsp;2.0 两驱自动天窗</a></div></td>
+<td width="80" style="text-align:right">
+<span class="fontred">18.38</span>&nbsp;万</td></tr><tr bgcolor="#f2f2f2"><td width="147" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5446/index.shtml" title="途胜 2.7 四驱自动豪华">途胜&nbsp;2.7 四驱自动豪华</a></div></td>
+<td width="80" style="text-align:right">
+<span class="fontred">24.18</span>&nbsp;万</td></tr><tr><td width="147" height="22"><div style="width:150px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" class="fontgrey nl red" href="/car_models/5442/index.shtml" title="途胜 2.0 四驱手动豪华">途胜&nbsp;2.0 四驱手动豪华</a></div></td>
+<td width="80" style="text-align:right">
+<span class="fontred">19.58</span>&nbsp;万</td></tr></table></td></tr>
+</table>
+
+
+  
+	  <table width="229" border="0" cellpadding="0" cellspacing="0" class="marb8">
+<tr><td><table width="229" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="38" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21a.gif"></td>
+<td width="185" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontbold fontl26">本品牌热门车型</td>
+<td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+</tr></table></td></tr>
+<tr><td align="center" class="tdk01nt"><table width="227" border="0" cellpadding="0" cellspacing="0" background="http://mat1.qq.com/auto/datalib/new_lib/top10.gif" id="top10" style="background-position:left top; background-repeat:no-repeat;">
+<tr align="left">
+<td width="52" height="26"></td>
+<td width="115"><div style="width:115px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" href="/car_serial/36/index.shtml" title="伊兰特">伊兰特</a></div></td>
+<td width="60" align="right" style="padding-right:8px;">29608</td>
+</tr>
+<tr align="left">
+<td height="22"></td>
+<td bgcolor="#F2F2F2"><div style="width:115px;height:22px;padding-top:3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" href="/car_serial/34/index.shtml" title="途胜">途胜</a></div></td>
+<td bgcolor="#F2F2F2" align="right" style="padding-right:8px;">15064</td>
+</tr>
+<tr align="left">
+<td width="52" height="26"></td>
+<td width="115"><div style="width:115px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" href="/car_serial/35/index.shtml" title="雅绅特">雅绅特</a></div></td>
+<td width="60" align="right" style="padding-right:8px;">9475</td>
+</tr>
+<tr align="left">
+<td height="22"></td>
+<td bgcolor="#F2F2F2"><div style="width:115px;height:22px;padding-top:3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" href="/car_serial/33/index.shtml" title="索纳塔">索纳塔</a></div></td>
+<td bgcolor="#F2F2F2" align="right" style="padding-right:8px;">6028</td>
+</tr>
+<tr align="left">
+<td width="52" height="26"></td>
+<td width="115"><div style="width:115px;height:26px;padding-top:4px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;"><a target="_blank" href="/car_serial/32/index.shtml" title="SONATA御翔">SONATA御翔</a></div></td>
+<td width="60" align="right" style="padding-right:8px;">5128</td>
+</tr>
+</table></td></tr>
+</table>
+
+
+     
+       <table width="229" border="0" cellpadding="0" cellspacing="0" class="marb8">
+        <tr>
+          <td><table width="229" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="38" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21a.gif"></td>
+                <td width="185" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontbold fontl26">导购</td>
+                <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="175" align="center" bgcolor="#EAEAEA" class="tdk01nt"><a href="/car_public/1/calc.shtml" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/linkpic_01.jpg" width="218" height="79" border="0" /></a><br />
+              <a href="/car_public/1/gouche.shtml" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/linkpic_02.jpg" width="218" height="79" border="0" /></a><br /></td>
+        </tr>
+      </table>
+
+
+     
+  </div>
+</div>
+<div id="first">
+  <style>
+#CopyRight2006 {font-size:12px;color:black;background:white;clear:both;margin:0 auto;}
+#CopyRight2006 a.tocft:link,a.tocft:visited{font-size:12px;color:black;text-decoration: none;}
+#CopyRight2006 a.tocft:hover{font-size:12px;color:red;text-decoration: underline;}
+</style>
+<script>
+function checkKeywordSearchBot() {
+	var sFilterAttrAND="";
+	var sFilterValueAND="";
+	var sKeyValue = document.frmKeywordSearchBot.keyvalue.value;
+	if (sKeyValue != "" && sKeyValue != document.frmKeywordSearchBot.keyvalue.defaultValue) {
+		var arrKey = sKeyValue.split(" ");
+		for(var i=0;i<arrKey.length;i++){
+			if(arrKey[i].trim() != "") {
+				sFilterAttrAND += (sFilterAttrAND == "") ? "1833" : "|1833";
+				sFilterValueAND += (sFilterValueAND == "") ? arrKey[i].trim() : "|" + arrKey[i].trim();
+			}
+		}	
+	} else {
+		alert("请输入车型关键字");
+		return false;
+	}
+	document.frmKeywordSearchBot.FilterAttrAND.value = sFilterAttrAND;
+	document.frmKeywordSearchBot.FilterValueAND.value = sFilterValueAND;
+	return true;
+}
+</script>
+<div id="auto_foot" style="display:none">
+<table align="center" width="910" height="90" border="0" cellpadding="0" cellspacing="0" background="http://mat1.qq.com/auto/datalib/new_lib/bg_dic.gif" id="dic">
+  <tr>
+    <td align="left" style="border-top:1px solid #BFC2C9; ">
+      <table width="910" border="0" cellspacing="0" cellpadding="0">
+        <form name="frmKeywordSearchBot" method="get" action="/cgi-bin/search" onSubmit="return checkKeywordSearchBot();" target="_blank"><tr>
+          <td width="169" height="24" class="dictd"><span><a href="/car_brand/index.shtml" class="blackrednl">车型库首页</a></span></td>
+          <td width="169" class="dictd"><span><a href="/car_public/1/calc.shtml" target="_blank" class="blackrednl">购车费用计算</a></span></td>
+          <td width="169" class="dictd"><span><a href="/car_public/1/piclib.shtml"  target="_blank" class="blackrednl">汽车图库</a></span></td>
+          <td width="169" class="dictd"><span><a href="http://post.soso.com/sobar.q?op=enterbar&bi=620373" target="_blank" class="blackrednl"><font color="red">意见与反馈</font></a></span></td>
+          <td width="234" align="center"><input name="keyvalue" type="text" style="width:185px;border:#7f9db9 1px solid;line-height:14px;" value="请输入车型关键字" onFocus="clearInput(this)" onBlur="resetInput(this)"/></td>
+        </tr>
+        <tr>
+          <td height="24" class="dictd"><span><a href="/car_serial/index.shtml" target="_blank" class="blackrednl">车型大全</a></span></td>
+          <td class="dictd"><span><a href="/car_public/1/compare.shtml" target="_blank" class="blackrednl">车型对比工具</a></span></td>
+          <td class="dictd">&nbsp;</td>
+          <td class="dictd"><span><a href="/car_public/1/bug.shtml" target="_blank" class="blackrednl">数据纠错</a></span></td>
+          <td align="right" style="padding-right:22px "><input type="image" src="http://mat1.qq.com/auto/datalib/new_lib/botton_01.gif" width="51" height="20" border="0" /></td>
+        </tr>
+        <tr>
+          <td height="24" class="dictd"><span><a href="/car_public/1/bbs.shtml" target="_blank" class="blackrednl">车友论坛列表</a></span></td>
+          <td class="dictd"><span><a href="/car_public/1/gouche.shtml" target="_blank" class="blackrednl">购车向导工具</a></span></td>
+          <td class="dictd">&nbsp;</td>
+          <td class="dictd">&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr><input name="FilterValueAND" type="hidden" value="">
+	<input name="FilterAttrAND" type="hidden" value="">
+	<input name="orderby" type="hidden" value="F1834 desc, F1832, F1991 0">
+	<input name="libid" type="hidden" value="88">
+	<input type="hidden" name="tname" value="search_keyword.shtml"/ >
+ </form>
+      </table>
+    </td>
+  </tr>
+</table>
+<table width="910" border="0" align="center" cellpadding="0" cellspacing="0" id="CopyRight2006">
+ <tr> 
+    <td height="1" colspan="2" bgcolor="AFAFAF"></td>
+  </tr>  
+<tr>
+    <td height="10" colspan="2"></td>
+  </tr>
+  <tr>
+    <td height="25" colspan="2" align="center"><a href="http://www.tencent.com/" class="tocft">关于腾讯 </a> | <a href="http://www.tencent.com/index_e.shtml" class="tocft">About Tencent </a> | <a href="http://www.qq.com/contract.shtml" class="tocft">服务条款 </a> | <a href="http://adver.qq.com/" class="tocft">广告服务 </a> | <a href="http://hr.tencent.com/" class="tocft">腾讯招聘 </a> | <a href="http://gongyi.qq.com/" class="tocft">腾讯公益 </a> | <a href="http://service.qq.com/" class="tocft">客服中心 </a> | <a href="http://www.qq.com/map/" class="tocft">网站导航 </a></td>
+  </tr>
+  <tr>
+    <td width="556" height="25" align="right">Copyright &copy; 1998 - 2007 Tencent Inc. All Rights Reserved </td>
+    <td width="194" align="left"><a href="http://www.sznet110.gov.cn/netalarm/index.jsp" target="_blank"><img src="http://img1.qq.com/www/pics/816/816587.gif" hspace="5" border="0" /></a></td>
+  </tr>
+  <tr>
+    <td height="25" colspan="2" align="center">腾讯公司 版权所有</td>
+  </tr>
+</table>
+</div>
+<div id="cq_foot" style="display:none">
+<table>
+<tr>
+<td width="910" height="1" bgcolor="AFAFAF"></td>
+</tr>
+</table>
+<style type="text/css">
+<!--
+.pt12_down {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	text-decoration: none;
+}
+a.pt12_down:link {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	text-decoration: none;
+}
+a.pt12_down:visited {
+	font-size: 12px;
+	line-height: 18px;
+	color: #000000;
+	text-decoration: none;
+}
+a.pt12_down:hover {
+	font-size: 12px;
+	line-height: 18px;
+	color: #FF0000;
+	text-decoration: underline;
+}
+-->
+</style>
+
+
+
+<table width="750" height="85" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle"><table width="600" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td height="25" align="center"><span class="pt12_down"><a href="http://cq.qq.com/aboutus.htm" target=_blank class="pt12_down">关于腾讯·大渝网</a></span> | <a href="http://www.qq.com/contract.shtml" target="_blank" class="pt12_down">服务条款</a> | <a href="http://cq.qq.com/ad/adver/" target="_blank" class="pt12_down">广告服务</a> | <a href="http://hr.tencent.com/" target="_blank" class="pt12_down">腾讯招聘</a> | <a href="http://service.qq.com/" target="_blank" class="pt12_down">客服中心</a> | <a href="http://cq.qq.com/ad/adver/adflmain.htm" target="_blank" class="pt12_down">大渝网律师</a> | <a href="http://www.qq.com/map/" target="_blank" class="pt12_down">网站导航</a></td>
+      </tr>
+      <tr>
+        <td height="25" align="center" class="pt12_down">Copyright &copy;1998 - 2007 TENCENT Inc. All Rights Reserved</td>
+      </tr>
+      <tr>
+        <td height="25" align="center" class="pt12_down">腾讯公司 版权所有</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+
+
+</div>
+<script>
+var sDomain = window.location.href;
+if(sDomain.indexOf("datalib.cq.qq.com") != -1)
+{
+	$("cq_foot").style.display = "";
+}
+else
+{
+	$("auto_foot").style.display = "";
+}
+</script>
+<div style="display:none;">
+    <script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
+    <script language="javascript">
+if(typeof(pgvMain) == 'function')
+		pgvMain();
+    </script>
+<!-- START NNR Site Census V5.1 -->
+<!-- COPYRIGHT 2004 Nielsen // Netratings -->
+<script language="JavaScript" type="text/javascript">
+<!--
+	var _rsCI="cn-tencent";
+	var _rsCG="0";
+	var _rsDT=0;
+	var _rsDU=0; 
+	var _rsDO=0; 
+	var _rsX6=0;  
+	var _rsSI=escape(window.location);
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'//secure-cn.imrworldwide.com/';
+
+	if (parseInt(navigator.appVersion)>=4)
+	{
+		var _rsRD=(new Date()).getTime();
+		var _rsSE=1;	
+		var _rsSV="";
+		var _rsSM=0.01;
+		_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+		_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+//-->
+</script>
+<noscript>
+<img src="//secure-cn.imrworldwide.com/cgi-bin/m?ci=cn-tencent&amp;cg=0" alt="">
+</noscript>
+<!-- END NNR Site Census V5.1 -->
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

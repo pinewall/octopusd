@@ -1,0 +1,132 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="长安汽车,长安汽车汽车报价,车型,新闻,图片,新车,热门车,参数,配置,排行,论坛">
+<meta name="description" content="长安汽车品牌页面,包含长安汽车汽车报价,长安汽车品牌简介,新车上市,热门车排行及新闻等相关内容">
+<title>长安汽车_长安汽车品牌_腾讯汽车频道</title>
+<link href="http://auto.qq.com/css/datalib/autodata.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+<script>
+Cookie.setCookie("BrandID", "98");
+Cookie.clearCookie("SerialID");
+Cookie.clearCookie("ModelID");
+</script>
+</head>
+
+<body>
+<!--#include virtual="/car_public/1/top.htm"-->
+<!--#include virtual="/car_public/1/top_search.htm"-->
+<div id="pos"><a href="http://auto.qq.com" target="_blank">腾讯汽车</a> &gt;&gt; <a href="/car_brand/index.shtml">车型库</a> &gt;&gt; 长安汽车</div>
+<div id="first">
+  <table width="910" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6" height="30" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b11.gif"></td>
+      <td width="231" align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b12.gif" ><h1>长安汽车<script>
+if("国产" == "进口")
+{
+     document.write("(进口)");
+}
+</script></h1>
+</td>
+      <td width="16" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b13.gif"></td>
+      <td width="571" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" class="fontwhite fontbold"><script>
+if("http://www.changan.com.cn/"!="")
+{
+	document.write('<span class="fl"><a target="_blank" href="http://www.changan.com.cn/" class="fontwhite" title="长安汽车官方网站">&gt;&gt; 官方网站</a></span>');
+}
+</script>
+	  </td>
+	  <td width="80" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" ><!--#include virtual="/car_public/1/bug_inc.htm"--></td>
+      <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b15.gif"></td>
+    </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+<table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+        <tr>
+          <td width="245" height="239" align="center" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b41.gif" class="tdk01"><table width="220" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="center"><a target="_blank" href="detail.shtml"><img src="/car_brand/pic/info/2007-09-14/2007091417221559195118112.gif" alt="长安汽车简介" width="220" height="175" border="0" class="img3" /></a></td>
+            </tr>
+              <tr>
+               <td height="32" align="center" valign="bottom" class="fontgrey">
+			   生产厂家：
+			   <script>
+if("长安汽车有限责任公司"!="")
+{
+	document.write('长安汽车有限责任公司');
+}
+else
+{
+	document.write('暂无资料');
+}
+</script>
+			 </td>
+              </tr>
+            </table>
+          </td>
+          <td width="9"></td>
+          <td width="419" align="center" valign="top" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b42.gif" class="tdk01 tbgtx"><table width="394" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="30" align="left" valign="bottom" class="fontbold fontgrey">长安汽车简介:</td>
+            </tr>
+            <tr>
+              <td height="87" class="fontl24 fontgrey">
+<div id="intro" style="display:none;margin:0;padding:0">　　长安自主品牌的背景源远流长，它隶属长安集团品牌构架，与之前长安微车、长安微车长安福特、长安铃木和江铃陆风的品牌地位一样。 1998年 长安汽车（集团）有限责任公司获国家正式批准成立，而其前身是成立于1862年的上海洋炮局，创办人为李鸿章，至今已经走过了144年的风雨历程。早在1958年，长安汽车集团就自主生产出了我国第一辆军用吉普车样车，并命名为“长江牌”46型吉普车。1983年，长安汽车集团自主开发生产的“长安牌”微型汽车诞生。1984年，长安汽车集团又开发出了我国第一台“江陵牌”发动机。2004年，长安第一辆拥有自主知识产权的长安cm8汽车在北京国际车展面市。2005年12月，长安第二款自主品牌汽车——“陆风风尚”在南昌下线。之前长安开发的汽车都属于长安微车品牌，而2006年7月长安汽车集团正式发布了其轿车发展战略，并公布了新的品牌徽标，将作为自主品牌轿车的品牌标识。 </div>
+		<script>
+			var o = document.getElementById("intro");
+			var s = o.innerHTML;
+			if(s != "")
+			{
+				o.innerHTML = s.substring(0, 88) + "...";
+				o.innerHTML += '[<span class="fontblue"><a href="detail.shtml" target="_blank" class="blackredul">详细</a>]</span>';	
+			}
+			else
+			{
+				o.innerHTML = "暂无简介";
+			}	
+			o.style.display = "block";		
+			 
+			</script>
+ 
+			  </td>
+            </tr>
+          </table>
+            <table width="417" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="24" valign="bottom" bgcolor="#f2f2f2" class="tdk01b fontgrey fontpp12"><span class="fl fontbold">长安汽车相关新闻:</span><span class="fr"><a href="http://www.soso.com/q?gid=&cin=&sc=qq&bs=&num=10&ch=w.soso.pr&w=长安汽车&site=auto" class="fontgrey red" target="_blank" title="查看所有长安汽车相关新闻">更多&gt;&gt;</a></span></td>
+              </tr>
+              <tr>
+                <td height="96" align="center">
+				<!--#include virtual="news.htm"-->
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+    </table>
+	<!--#include virtual="brand_serial_list.htm"-->
+  </div>
+  <div id="first_right">
+      <!--#include virtual="lastest_models.htm"-->  
+	  <!--#include virtual="hot_models.htm"-->  
+	  <!--#include virtual="serial_pgv_rank.htm"-->     
+      <!--#include virtual="/car_public/1/brand_xiangdao.htm"-->     
+  </div>
+</div>
+<div id="first">
+  <!--#include virtual="/car_public/1/foot.htm"-->
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
