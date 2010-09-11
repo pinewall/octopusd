@@ -1,0 +1,244 @@
+/*公共部分*/
+*{
+	overflow-x:hidden;
+}
+body{}
+a.b0:link{color:#000000;text-decoration: none;}
+a.b0:visited{color:#5B5B5B;text-decoration: none;}
+a.b0:hover{color:red;text-decoration: underline;}
+
+a.b1:link{color:darkcyan;text-decoration: none;}
+a.b1:visited{color:cadetblue;text-decoration: none;}
+a.b1:hover{color:red;text-decoration: underline;}
+
+ul,li{font-size:12px;line-height: 18px; font-weight:normal;  color: Maroon; }
+
+.dis{display:block;}
+.undis{display:none}
+
+/*导航部分 */
+#ChannelNavTab{margin:0 auto}
+#ChannelNavTop { 
+	width:100%;font-size:12px;color:#8C8E8C;height:25px;clear:both;
+	background:url(/images/topbg.gif) repeat-x bottom}
+#ChannelNavTop p{
+	margin:0;float:right;width:75px;line-height:25px;height:25px;text-align:center;
+	background:url(/images/topdot.gif) no-repeat 0 8px;}
+#ChannelNavTop span{
+	margin:8px;line-height:25px;height:25px;text-align:left;color: Green;}
+#ChannelNavTop p a{color:#8C8E8C;text-decoration:none}
+#ChannelNavTop p a:hover{color:red}
+#ProNameTop {
+	line-height:25px;
+	height:25px;
+	font-size: 15px;
+	font-weight: bold;
+	color: Green;
+	margin:auto 12px;
+	}
+
+.leftf {
+	float: left;
+	width:16%;
+	margin: 2px 1px 3px 5px;
+	}
+
+.rightf {
+	clear:right;
+	width:81%;
+}
+/*数据表*/
+.dgd_table{margin-top: 4px;width:97%;background:#959595;	text-align:left;}
+.dgd_table td{font-size:13px;padding: 0 4px;background:#fff;}
+.dgd_table tr{line-height:21px;}
+.dgd_table_tr_title td{
+	padding:2px;
+	line-height:21px;
+	font-weight:bold;
+	background: #E1E8EE;
+	}	
+.main{
+	margin:0px 10px;
+	clear: none;
+	width:97%;
+	border:1px solid #959595;
+	margin-top: 4px;
+	line-height:21px;
+	font-weight: bold;
+	font-size:13px;
+	background: #E1E8EE;
+}
+.stfont{
+	color: Gray;
+	font-size:11px;
+}
+.cmt{
+	margin:0 auto;
+	clear: none;
+	width:99%;
+	margin-bottom:1px;
+	border:1px solid #959595;
+}
+.cmt2{
+	margin:0 auto;
+	clear: none;
+	width:100%;
+	border:1px solid #959595;
+}
+.topt{
+	width:99%;
+	margin:1px auto;
+	clear: none;
+	line-height:21px;
+	height:21px;
+	background: #E1E8EE;
+	text-align:center;
+	border:1px solid #959595;
+	font-weight: bold;
+	font-size:13px;
+}
+.cmt dt{
+	height:17px;
+	background:#E1E8EE;
+	border-bottom:1px solid #959595;
+	font-size:12px;
+	text-indent: 4px; 
+}
+.cmt dt .lefts{
+	width:30%;
+	float:left;
+	line-height:21px;
+	height:21px;
+	text-align:left;
+	padding:0 0 0 6px;
+	border-right:1px solid #959595;
+}
+
+.cmt dt .rights{	 
+	padding-right:28px;
+	float:right;
+	line-height:21px;
+	height:21px;
+}
+.cmt dt .aline{
+	text-indent: 22px; 
+	line-height:21px;
+	height:25px;
+	text-align:left;
+	border-bottom:1px solid #959595;
+	background: White;
+	color:Gray;
+}
+.cmt dt .ealine{
+	text-indent: 22px; 
+	line-height:21px;
+	height:25px;
+	text-align:left;
+	background: White;
+	color:Gray;
+}
+
+/*post*/
+.cmt dd.p{ 
+	width:96%;
+	margin:5px auto 8px auto;
+}
+/*information*/
+.cmt dd.i{
+	width:95%;
+	margin:0 auto;
+	background:url(http://mat1.qq.com/pinglun/images/dot.gif) repeat-x top;
+	padding:8px 0;
+	font-size:12px;
+	text-indent: 0;
+	line-height:150%;
+}
+.cmt dd.i .w{
+	float:right;
+	padding-right:10px;
+	font-size:12px;
+	text-indent: 0;
+}
+/*from*/
+.cmt dd.f{
+	float:left;
+	margin:2px auto 2px 12px;
+	color: Gray;
+	font-size:12px;
+	text-indent: 0;
+	line-height:150%;
+}
+.cmt dd.lf{
+	float:left;
+	margin:2px 2px;
+	color: Gray;
+	font-size:12px;
+	text-indent: 0;
+	line-height:150%;
+}
+.cmt2 dd.lf{
+	float:left;
+	margin:2px 2px;
+	color: Gray;
+	font-size:12px;
+	text-indent: 0;
+	line-height:150%;
+}
+.cmt dd.f .ft{
+	color: Black;
+	font-weight: bolder;
+}
+
+.textareaC {
+	 width:98%;
+	 height:50px;
+	 overflow-x:visible;
+	 overflow-y:visible;
+}
+select.SelectC {
+	 width:30%;
+	 margin:2px auto;
+}
+select.SelectLC {
+	 width:90%;
+	 margin:2px auto;
+}
+input.inputC {
+	 width:65%;
+	 overflow-x:visible;
+	 overflow-y:visible;
+}
+input.inputLC {
+	 width:86%;
+}
+}
+input.inputAC {
+	 width:14%;
+}
+
+input.btn_normal{
+	border:1px solid #555555; 
+	margin:2px 2px;
+	font-size:12px; 
+	line-height:12px;
+	padding:2px 2px 0 2px;
+	color:#494949; 
+	cursor:pointer;
+}
+
+.normalTitle{
+	line-height:25px;
+	height:25px;
+	font-size:14px;	
+	text-align:left;
+	margin-left:10px;
+	color: Green;
+	font-weight:bold;
+}
+.normalContent{
+	line-height:21px;
+	height:21px;
+	font-size:12px;	
+	text-align:left;
+	margin-left:10px;
+}

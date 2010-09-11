@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>这是测试——好一个名称</title>
+</head>
+<body>
+<table><tr><td>名称:<a href="/cgi-bin/search?libid=97&keyvalue=好一个名称&attr=3057" target="_blank">好一个名称</a></td></tr>
+<tr><td>关键字:<a href="/cgi-bin/search?libid=97&keyvalue=好一个名称的关键字&attr=3058" target="_blank">好一个名称的关键字</a></td></tr>
+<tr><td>车牌号码:XF705</td></tr>
+</table></body>
+</html>
+
+

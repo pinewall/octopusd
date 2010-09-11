@@ -1,0 +1,46 @@
+
+======2010-09-11 20:10:53 111785 stat Info======
+ NrOfConnecting = 0
+ TotalSizeOfRecvFile = 0
+ NrOfRecvUploadFile = 0
+ NrOfRecvDelFile = 0
+ NrOfRecvMvFile = 0
+ NrOfRecvCpFile = 0
+ NrOfSendUploadFile = 0
+ NrOfSendDelFile = 0
+ NrOfSendMvFile = 0
+ NrOfSendMvFile = 0
+ Recv Thread:
+ WorkTimesOfThread(-1485714576) = 0
+ WorkTimesOfThread(-1477321872) = 0
+ WorkTimesOfThread(-1468929168) = 0
+ WorkTimesOfThread(-1460536464) = 0
+ WorkTimesOfThread(-1452143760) = 0
+ WorkTimesOfThread(-1443751056) = 0
+ WorkTimesOfThread(-1435358352) = 0
+ WorkTimesOfThread(-1426965648) = 0
+ WorkTimesOfThread(-1418572944) = 0
+ WorkTimesOfThread(-1410180240) = 0
+ WorkTimesOfThread(-1401787536) = 0
+ WorkTimesOfThread(-1393394832) = 0
+ WorkTimesOfThread(-1385002128) = 0
+ WorkTimesOfThread(-1376609424) = 0
+ WorkTimesOfThread(-1368216720) = 0
+ WorkTimesOfThread(-1359824016) = 0
+ WorkTimesOfThread(-1351431312) = 0
+ WorkTimesOfThread(-1343038608) = 0
+ WorkTimesOfThread(-1334645904) = 0
+ WorkTimesOfThread(-1326253200) = 0
+ WorkTimesOfThread(-1317860496) = 0
+ WorkTimesOfThread(-1309467792) = 0
+ WorkTimesOfThread(-1301075088) = 0
+ WorkTimesOfThread(-1292682384) = 0
+ WorkTimesOfThread(-1284289680) = 0
+ WorkTimesOfThread(-1275896976) = 0
+ WorkTimesOfThread(-1267504272) = 0
+ WorkTimesOfThread(-1259111568) = 0
+ WorkTimesOfThread(-1250718864) = 0
+ WorkTimesOfThread(-1242326160) = 0
+ WorkTimesOfThread(-1233933456) = 0
+ WorkTimesOfThread(-1225540752) = 0
+ Send Thread:

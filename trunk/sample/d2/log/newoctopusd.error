@@ -1,0 +1,38 @@
+[2008-05-03 22:06:41 717225][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:10:19 390656][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:13:41 675373][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:16:49 923046][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:27:48 204910][135960656] Get [SERVER002] ServerName() failed.
+[2008-05-03 22:27:48 205350][135960656] Init configmng module failed.
+[2008-05-03 22:29:10 582506][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:44:45 994773][2918398864] Mv file(/home/bud/SiteWizard/d3/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d3/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 22:44:46 011048][2876435344] cp file(/home/bud/SiteWizard/d3/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d3/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-03 22:48:34 494277][2859649936] Mv file(/home/bud/SiteWizard/d3/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d3/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 22:48:34 498424][2859649936] cp file(/home/bud/SiteWizard/d3/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d3/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-03 22:55:31 090224][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:58:13 440262][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 23:04:14 429375][3077856144] Mv file(/home/bud/SiteWizard/d2/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d2/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 23:05:27 666046][3052678032] Mv file(/home/bud/SiteWizard/d2/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d2/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 23:05:27 681912][2884823952] cp file(/home/bud/SiteWizard/d2/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d2/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-08 00:03:22 343296][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-08 00:06:30 821258][2700077968] Recv message failed because recv error(recv size=-1).
+[2008-05-08 00:06:30 821642][2700077968] Send Duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/index_all.shtml:2008050800063076753:/srv/datalib/htdocs/mynameistest/template/index_all.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=0) recv response timeout.
+[2008-05-08 00:06:30 822003][2700077968] END_fail<<STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/index_all.shtml:2008050800063076753:/srv/datalib/htdocs/mynameistest/template/index_all.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=0;Reponsecode=9>>
+[2008-05-08 00:06:30 825118][2767219600] Recv message failed because recv error(recv size=-1).
+[2008-05-08 00:06:30 825449][2767219600] Send Duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/search.shtml:2008050800063080005:/srv/datalib/htdocs/mynameistest/template/search.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=0) recv response timeout.
+[2008-05-08 00:06:30 825780][2767219600] END_fail<<STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/search.shtml:2008050800063080005:/srv/datalib/htdocs/mynameistest/template/search.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=0;Reponsecode=9>>
+[2008-05-08 00:06:30 829059][2532223888] Recv message failed because recv error(recv size=-1).
+[2008-05-08 00:06:30 829441][2532223888] Send Duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/index_all.shtml:2008050800063076753:/srv/datalib/htdocs/mynameistest/template/index_all.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=1) recv response timeout.
+[2008-05-08 00:06:30 829816][2532223888] END_fail<<STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/index_all.shtml:2008050800063076753:/srv/datalib/htdocs/mynameistest/template/index_all.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=1;Reponsecode=9>>
+[2008-05-08 00:06:30 830242][2532223888] DirectSendQ: the duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/index_all.shtml:2008050800063076753:/srv/datalib/htdocs/mynameistest/template/index_all.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=2) NrOfFail >= Max(2), so write to file.
+[2008-05-08 00:06:30 833456][2700077968] Recv message failed because recv error(recv size=-1).
+[2008-05-08 00:06:30 833627][2700077968] Send Duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/search.shtml:2008050800063080005:/srv/datalib/htdocs/mynameistest/template/search.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=1) recv response timeout.
+[2008-05-08 00:06:30 833893][2700077968] END_fail<<STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/search.shtml:2008050800063080005:/srv/datalib/htdocs/mynameistest/template/search.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=1;Reponsecode=9>>
+[2008-05-08 00:06:30 834087][2700077968] DirectSendQ: the duty(STATUS=0:PROTOCOL=1:datalib:/mynameistest/template/search.shtml:2008050800063080005:/srv/datalib/htdocs/mynameistest/template/search.shtml:LOCALTIME=1210176390:10.13.1.2:PORT=21826:NROFFAIL=2) NrOfFail >= Max(2), so write to file.
+[2008-05-08 01:36:44 733355][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-19 20:35:12 026443][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-09 20:14:26 215393][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-10 10:43:19 765136][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-10 16:04:29 564834][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-11 14:53:48 179386][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-11 20:10:03 961365][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.

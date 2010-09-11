@@ -1,0 +1,10 @@
+#! /bin/sh
+#
+# Created by configure
+
+'./configure' \
+'--disable-option-checking' \
+'--prefix=/home/bud/newoctopusd/octopusd/t' \
+'--cache-file=/dev/null' \
+'--srcdir=.' \
+"$@"

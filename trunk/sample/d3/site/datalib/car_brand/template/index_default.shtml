@@ -1,0 +1,132 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="$1807_t$,$1807_t$汽车报价,车型,新闻,图片,新车,热门车,参数,配置,排行,论坛">
+<meta name="description" content="$1807_t$品牌页面,包含$1807_t$汽车报价,$1807_t$品牌简介,新车上市,热门车排行及新闻等相关内容">
+<title>$1807_t$_$1807_t$品牌_腾讯汽车频道</title>
+<link href="http://auto.qq.com/css/datalib/autodata.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+<script>
+Cookie.setCookie("BrandID", "$DataID$");
+Cookie.clearCookie("SerialID");
+Cookie.clearCookie("ModelID");
+</script>
+</head>
+
+<body>
+<!--#include virtual="/car_public/1/top.htm"-->
+<!--#include virtual="/car_public/1/top_search.htm"-->
+<div id="pos"><a href="http://auto.qq.com" target="_blank">腾讯汽车</a> &gt;&gt; <a href="/car_brand/index.shtml">车型库</a> &gt;&gt; $1807_t$</div>
+<div id="first">
+  <table width="910" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6" height="30" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b11.gif"></td>
+      <td width="231" align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b12.gif" ><h1>$1807_t$<script>
+if("$1813_t$" == "进口")
+{
+     document.write("(进口)");
+}
+</script></h1>
+</td>
+      <td width="16" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b13.gif"></td>
+      <td width="571" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" class="fontwhite fontbold"><script>
+if("$1996$"!="")
+{
+	document.write('<span class="fl"><a target="_blank" href="$1996$" class="fontwhite" title="$1807_t$官方网站">&gt;&gt; 官方网站</a></span>');
+}
+</script>
+	  </td>
+	  <td width="80" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" ><!--#include virtual="/car_public/1/bug_inc.htm"--></td>
+      <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b15.gif"></td>
+    </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+<table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+        <tr>
+          <td width="245" height="239" align="center" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b41.gif" class="tdk01"><table width="220" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+                <td align="center"><a target="_blank" href="detail.shtml"><img src="$1811$" alt="$1807_t$简介" width="220" height="175" border="0" class="img3" /></a></td>
+            </tr>
+              <tr>
+               <td height="32" align="center" valign="bottom" class="fontgrey">
+			   生产厂家：
+			   <script>
+if("$1810$"!="")
+{
+	document.write('$1810$');
+}
+else
+{
+	document.write('暂无资料');
+}
+</script>
+			 </td>
+              </tr>
+            </table>
+          </td>
+          <td width="9"></td>
+          <td width="419" align="center" valign="top" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b42.gif" class="tdk01 tbgtx"><table width="394" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="30" align="left" valign="bottom" class="fontbold fontgrey">$1807_t$简介:</td>
+            </tr>
+            <tr>
+              <td height="87" class="fontl24 fontgrey">
+<div id="intro" style="display:none;margin:0;padding:0">$1812$</div>
+		<script>
+			var o = document.getElementById("intro");
+			var s = o.innerHTML;
+			if(s != "")
+			{
+				o.innerHTML = s.substring(0, 88) + "...";
+				o.innerHTML += '[<span class="fontblue"><a href="detail.shtml" target="_blank" class="blackredul">详细</a>]</span>';	
+			}
+			else
+			{
+				o.innerHTML = "暂无简介";
+			}	
+			o.style.display = "block";		
+			 
+			</script>
+ 
+			  </td>
+            </tr>
+          </table>
+            <table width="417" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="24" valign="bottom" bgcolor="#f2f2f2" class="tdk01b fontgrey fontpp12"><span class="fl fontbold">$1807_t$相关新闻:</span><span class="fr"><a href="http://www.soso.com/q?gid=&cin=&sc=qq&bs=&num=10&ch=w.soso.pr&w=$1807_t$&site=auto" class="fontgrey red" target="_blank" title="查看所有$1807_t$相关新闻">更多&gt;&gt;</a></span></td>
+              </tr>
+              <tr>
+                <td height="96" align="center">
+				<!--#include virtual="news.htm"-->
+				</td>
+              </tr>
+            </table></td>
+        </tr>
+    </table>
+	<!--#include virtual="brand_serial_list.htm"-->
+  </div>
+  <div id="first_right">
+      <!--#include virtual="lastest_models.htm"-->  
+	  <!--#include virtual="hot_models.htm"-->  
+	  <!--#include virtual="serial_pgv_rank.htm"-->     
+      <!--#include virtual="/car_public/1/brand_xiangdao.htm"-->     
+  </div>
+</div>
+<div id="first">
+  <!--#include virtual="/car_public/1/foot.htm"-->
+</div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+

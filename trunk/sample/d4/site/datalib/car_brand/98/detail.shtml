@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="长安汽车,长安汽车汽车报价,车型,新闻,图片,新车,热门车,参数,配置,排行,论坛">
+<meta name="description" content="长安汽车品牌页面,包含长安汽车汽车报价,长安汽车品牌简介,新车上市,热门车排行及新闻等相关内容">
+<title>长安汽车简介_长安汽车品牌_腾讯汽车频道</title>
+<link href="http://auto.qq.com/css/datalib/autodata.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+</head>
+
+<body>
+<!--#include virtual="/car_public/1/top.htm"-->
+<!--#include virtual="/car_public/1/top_search.htm"-->
+<div id="pos"><a href="http://auto.qq.com" target="_blank">腾讯汽车</a> &gt;&gt; <a href="/car_brand/index.shtml">车型库</a> &gt;&gt; <a href="/car_brand/98/index.shtml">长安汽车</a> &gt;&gt; 简介</div>
+<div id="first">
+  <table width="910" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6" height="30" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b11.gif"></td>
+      <td width="231" align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b12.gif" class="fonttitle fontwhite">长安汽车<script>
+if("国产" == "进口")
+{
+     document.write("(进口)");
+}
+</script>
+</td>
+      <td width="16" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b13.gif"></td>
+      <td width="671" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" class="fontwhite fontbold"><script>
+if("http://www.changan.com.cn/"!="")
+{
+	document.write('<span class="fl"><a target="_blank" href="http://www.changan.com.cn/" class="fontwhite">&gt;&gt; 官方网站</a></span>');
+}
+</script>
+	  </td>
+	  <td width="80" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" ><!--#include virtual="/car_public/1/bug_inc.htm"--></td>
+      <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b15.gif"></td>
+    </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+    <table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+      <tr>
+        <td><table width="673" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="35" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"></td>
+              <td width="68" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px">品牌简介</td>
+              <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+              <td width="536" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif"></td>
+              <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td valign="top"><table width="673" border="0" cellpadding="0" cellspacing="0" class="marb10 tdk01">
+            <tr>
+              <td height="1400" valign="top" class="intro">　　长安自主品牌的背景源远流长，它隶属长安集团品牌构架，与之前长安微车、长安微车长安福特、长安铃木和江铃陆风的品牌地位一样。 1998年 长安汽车（集团）有限责任公司获国家正式批准成立，而其前身是成立于1862年的上海洋炮局，创办人为李鸿章，至今已经走过了144年的风雨历程。早在1958年，长安汽车集团就自主生产出了我国第一辆军用吉普车样车，并命名为“长江牌”46型吉普车。1983年，长安汽车集团自主开发生产的“长安牌”微型汽车诞生。1984年，长安汽车集团又开发出了我国第一台“江陵牌”发动机。2004年，长安第一辆拥有自主知识产权的长安cm8汽车在北京国际车展面市。2005年12月，长安第二款自主品牌汽车——“陆风风尚”在南昌下线。之前长安开发的汽车都属于长安微车品牌，而2006年7月长安汽车集团正式发布了其轿车发展战略，并公布了新的品牌徽标，将作为自主品牌轿车的品牌标识。 </td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+  </div>
+  <div id="first_right">
+      <!--#include virtual="lastest_models.htm"-->  
+	  <!--#include virtual="hot_models.htm"-->  
+	  <!--#include virtual="serial_pgv_rank.htm"-->     
+      <!--#include virtual="/car_public/1/brand_xiangdao.htm"-->     
+  </div>
+</div>
+<div id="first">
+  <!--#include virtual="/car_public/1/foot.htm"-->
+</div>
+</body>
+</html>
+
+
+
+
+
+
+

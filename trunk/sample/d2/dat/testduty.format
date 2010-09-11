@@ -1,0 +1,10 @@
+File line1 : message file type : 1 = filename  2 = filestream
+null line
+BEGIN mult section>>Message Type:  1 = upload  2 = delete
+		    Site Name:  i.e: news
+	            Target opposite Path and File name: i.e: /inc/index.html
+		    Src Path and File Name: /home/kevinliu/index.html
+		     null line
+<<END
+......
+                   

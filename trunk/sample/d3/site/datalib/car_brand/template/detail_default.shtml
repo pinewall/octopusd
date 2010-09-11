@@ -1,0 +1,81 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="$1807_t$,$1807_t$汽车报价,车型,新闻,图片,新车,热门车,参数,配置,排行,论坛">
+<meta name="description" content="$1807_t$品牌页面,包含$1807_t$汽车报价,$1807_t$品牌简介,新车上市,热门车排行及新闻等相关内容">
+<title>$1807_t$简介_$1807_t$品牌_腾讯汽车频道</title>
+<link href="http://auto.qq.com/css/datalib/autodata.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+</head>
+
+<body>
+<!--#include virtual="/car_public/1/top.htm"-->
+<!--#include virtual="/car_public/1/top_search.htm"-->
+<div id="pos"><a href="http://auto.qq.com" target="_blank">腾讯汽车</a> &gt;&gt; <a href="/car_brand/index.shtml">车型库</a> &gt;&gt; <a href="/car_brand/$DataID$/index.shtml">$1807_t$</a> &gt;&gt; 简介</div>
+<div id="first">
+  <table width="910" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6" height="30" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b11.gif"></td>
+      <td width="231" align="center" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b12.gif" class="fonttitle fontwhite">$1807_t$<script>
+if("$1813_t$" == "进口")
+{
+     document.write("(进口)");
+}
+</script>
+</td>
+      <td width="16" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b13.gif"></td>
+      <td width="671" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" class="fontwhite fontbold"><script>
+if("$1996$"!="")
+{
+	document.write('<span class="fl"><a target="_blank" href="$1996$" class="fontwhite">&gt;&gt; 官方网站</a></span>');
+}
+</script>
+	  </td>
+	  <td width="80" align="left" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b14.gif" ><!--#include virtual="/car_public/1/bug_inc.htm"--></td>
+      <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_b15.gif"></td>
+    </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+    <table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+      <tr>
+        <td><table width="673" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="35" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"></td>
+              <td width="68" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px">品牌简介</td>
+              <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+              <td width="536" align="left" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif"></td>
+              <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td valign="top"><table width="673" border="0" cellpadding="0" cellspacing="0" class="marb10 tdk01">
+            <tr>
+              <td height="1400" valign="top" class="intro">$1812$</td>
+            </tr>
+        </table></td>
+      </tr>
+    </table>
+  </div>
+  <div id="first_right">
+      <!--#include virtual="lastest_models.htm"-->  
+	  <!--#include virtual="hot_models.htm"-->  
+	  <!--#include virtual="serial_pgv_rank.htm"-->     
+      <!--#include virtual="/car_public/1/brand_xiangdao.htm"-->     
+  </div>
+</div>
+<div id="first">
+  <!--#include virtual="/car_public/1/foot.htm"-->
+</div>
+</body>
+</html>
+
+
+
+
+
+
+

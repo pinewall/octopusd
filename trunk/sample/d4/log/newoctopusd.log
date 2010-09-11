@@ -1,0 +1,1142 @@
+[2008-05-03 22:06:31 709345][135960656] newoctopusd begin to running......
+[2008-05-03 22:06:31 709691][135960656] ===Init logmng module successfully===
+[2008-05-03 22:06:31 710009][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:06:31 710961][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:06:31 711247][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:06:31 712080][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:06:31 712425][135960656] ===Init configmng module successfully===
+[2008-05-03 22:06:31 712687][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:06:31 713001][135960656] Create ShareMem(id=53e88) successfully.
+[2008-05-03 22:06:31 713263][135960656] ===Init maintain module successfully===
+[2008-05-03 22:06:31 713512][135960656] Begin to create socket server(ALL, 8123)......
+[2008-05-03 22:06:31 713816][135960656] Create socket server(ALL, 8123) successfully
+[2008-05-03 22:06:31 714065][135960656] ===Create server(ALL,8123) socket listen successfully===
+[2008-05-03 22:06:31 714352][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:06:31 714599][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:06:31 714896][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:06:31 716373][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:06:31 716678][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:06:31 716979][135960656] ===Init all child thread successfully===
+[2008-05-03 22:06:31 717259][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:06:31 718451][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:06:31 811143][3086842768] ConnectthreadID = 3086842768 PID = 22835
+[2008-05-03 22:06:31 811479][3078450064] RecvthreadID = 3078450064 PID = 22835
+[2008-05-03 22:06:31 811813][3070057360] RecvthreadID = 3070057360 PID = 22835
+[2008-05-03 22:06:31 812131][3061664656] RecvthreadID = 3061664656 PID = 22835
+[2008-05-03 22:06:31 812426][3053271952] RecvthreadID = 3053271952 PID = 22835
+[2008-05-03 22:06:31 812724][3044879248] RecvthreadID = 3044879248 PID = 22835
+[2008-05-03 22:06:31 813015][3036486544] RecvthreadID = 3036486544 PID = 22835
+[2008-05-03 22:06:31 813309][3028093840] RecvthreadID = 3028093840 PID = 22835
+[2008-05-03 22:06:31 813597][3019701136] RecvthreadID = 3019701136 PID = 22835
+[2008-05-03 22:06:31 813867][3011308432] RecvthreadID = 3011308432 PID = 22835
+[2008-05-03 22:06:31 814151][3002915728] RecvthreadID = 3002915728 PID = 22835
+[2008-05-03 22:06:31 814435][2994523024] RecvthreadID = 2994523024 PID = 22835
+[2008-05-03 22:06:31 814717][2986130320] RecvthreadID = 2986130320 PID = 22835
+[2008-05-03 22:06:31 814999][2977737616] RecvthreadID = 2977737616 PID = 22835
+[2008-05-03 22:06:31 815281][2969344912] RecvthreadID = 2969344912 PID = 22835
+[2008-05-03 22:06:31 815564][2960952208] RecvthreadID = 2960952208 PID = 22835
+[2008-05-03 22:06:31 815881][2952559504] RecvthreadID = 2952559504 PID = 22835
+[2008-05-03 22:06:31 816328][2944166800] RecvthreadID = 2944166800 PID = 22835
+[2008-05-03 22:06:31 816625][2935774096] RecvthreadID = 2935774096 PID = 22835
+[2008-05-03 22:06:31 816920][2927381392] RecvthreadID = 2927381392 PID = 22835
+[2008-05-03 22:06:31 817213][2918988688] RecvthreadID = 2918988688 PID = 22835
+[2008-05-03 22:06:31 817504][2910595984] RecvthreadID = 2910595984 PID = 22835
+[2008-05-03 22:06:31 817796][2902203280] RecvthreadID = 2902203280 PID = 22835
+[2008-05-03 22:06:31 818089][2893810576] RecvthreadID = 2893810576 PID = 22835
+[2008-05-03 22:06:31 818382][2885417872] RecvthreadID = 2885417872 PID = 22835
+[2008-05-03 22:06:31 818733][2877025168] RecvthreadID = 2877025168 PID = 22835
+[2008-05-03 22:06:31 819026][2868632464] RecvthreadID = 2868632464 PID = 22835
+[2008-05-03 22:06:31 819214][2860239760] RecvthreadID = 2860239760 PID = 22835
+[2008-05-03 22:06:31 819319][2851847056] RecvthreadID = 2851847056 PID = 22835
+[2008-05-03 22:06:31 819476][2843454352] RecvthreadID = 2843454352 PID = 22835
+[2008-05-03 22:06:31 819580][2835061648] RecvthreadID = 2835061648 PID = 22835
+[2008-05-03 22:06:31 819677][2826668944] P_MaintainthreadID = 2826668944 PID = 22835
+[2008-05-03 22:06:31 819781][2818276240] R_MaintainthreadID = 2818276240 PID = 22835
+[2008-05-03 22:06:41 716971][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:10:09 387106][135960656] newoctopusd begin to running......
+[2008-05-03 22:10:09 387313][135960656] ===Init logmng module successfully===
+[2008-05-03 22:10:09 387416][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:10:09 388102][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:10:09 388197][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:10:09 388744][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:10:09 388886][135960656] ===Init configmng module successfully===
+[2008-05-03 22:10:09 388966][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:10:09 389081][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-03 22:10:09 389180][135960656] ===Init maintain module successfully===
+[2008-05-03 22:10:09 389259][135960656] Begin to create socket server(ALL, 8123)......
+[2008-05-03 22:10:09 389396][135960656] Create socket server(ALL, 8123) successfully
+[2008-05-03 22:10:09 389474][135960656] ===Create server(ALL,8123) socket listen successfully===
+[2008-05-03 22:10:09 389574][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:10:09 389668][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:10:09 389790][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:10:09 392138][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:10:09 392303][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:10:09 392425][135960656] ===Init all child thread successfully===
+[2008-05-03 22:10:09 392509][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:10:09 393002][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:10:09 487071][3086666640] ConnectthreadID = 3086666640 PID = 23935
+[2008-05-03 22:10:09 487205][3078273936] RecvthreadID = 3078273936 PID = 23935
+[2008-05-03 22:10:09 487310][3069881232] RecvthreadID = 3069881232 PID = 23935
+[2008-05-03 22:10:09 487413][3061488528] RecvthreadID = 3061488528 PID = 23935
+[2008-05-03 22:10:09 487513][3053095824] RecvthreadID = 3053095824 PID = 23935
+[2008-05-03 22:10:09 487613][3044703120] RecvthreadID = 3044703120 PID = 23935
+[2008-05-03 22:10:09 487713][3036310416] RecvthreadID = 3036310416 PID = 23935
+[2008-05-03 22:10:09 487813][3027917712] RecvthreadID = 3027917712 PID = 23935
+[2008-05-03 22:10:09 487914][3019525008] RecvthreadID = 3019525008 PID = 23935
+[2008-05-03 22:10:09 488014][3011132304] RecvthreadID = 3011132304 PID = 23935
+[2008-05-03 22:10:09 488115][3002739600] RecvthreadID = 3002739600 PID = 23935
+[2008-05-03 22:10:09 488214][2994346896] RecvthreadID = 2994346896 PID = 23935
+[2008-05-03 22:10:09 488314][2985954192] RecvthreadID = 2985954192 PID = 23935
+[2008-05-03 22:10:09 488414][2977561488] RecvthreadID = 2977561488 PID = 23935
+[2008-05-03 22:10:09 488513][2969168784] RecvthreadID = 2969168784 PID = 23935
+[2008-05-03 22:10:09 488613][2960776080] RecvthreadID = 2960776080 PID = 23935
+[2008-05-03 22:10:09 488713][2952383376] RecvthreadID = 2952383376 PID = 23935
+[2008-05-03 22:10:09 488813][2943990672] RecvthreadID = 2943990672 PID = 23935
+[2008-05-03 22:10:09 488913][2935597968] RecvthreadID = 2935597968 PID = 23935
+[2008-05-03 22:10:09 489013][2927205264] RecvthreadID = 2927205264 PID = 23935
+[2008-05-03 22:10:09 489113][2918812560] RecvthreadID = 2918812560 PID = 23935
+[2008-05-03 22:10:09 489213][2910419856] RecvthreadID = 2910419856 PID = 23935
+[2008-05-03 22:10:09 489377][2902027152] RecvthreadID = 2902027152 PID = 23935
+[2008-05-03 22:10:09 489481][2893634448] RecvthreadID = 2893634448 PID = 23935
+[2008-05-03 22:10:09 489582][2885241744] RecvthreadID = 2885241744 PID = 23935
+[2008-05-03 22:10:09 489701][2876849040] RecvthreadID = 2876849040 PID = 23935
+[2008-05-03 22:10:09 489802][2868456336] RecvthreadID = 2868456336 PID = 23935
+[2008-05-03 22:10:09 489902][2860063632] RecvthreadID = 2860063632 PID = 23935
+[2008-05-03 22:10:09 490003][2851670928] RecvthreadID = 2851670928 PID = 23935
+[2008-05-03 22:10:09 490104][2843278224] RecvthreadID = 2843278224 PID = 23935
+[2008-05-03 22:10:09 490205][2834885520] RecvthreadID = 2834885520 PID = 23935
+[2008-05-03 22:10:09 490299][2826492816] P_MaintainthreadID = 2826492816 PID = 23935
+[2008-05-03 22:10:09 490402][2818100112] R_MaintainthreadID = 2818100112 PID = 23935
+[2008-05-03 22:10:19 390490][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:10:38 387595][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-03 22:10:38 387752][2885241744] RecvThread(2885241744) recv an exit notice, so exit.
+[2008-05-03 22:10:38 387874][2876849040] RecvThread(2876849040) recv an exit notice, so exit.
+[2008-05-03 22:10:38 387977][2868456336] RecvThread(2868456336) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388077][2860063632] RecvThread(2860063632) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388178][2851670928] RecvThread(2851670928) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388277][2843278224] RecvThread(2843278224) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388377][2834885520] RecvThread(2834885520) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388477][2893634448] RecvThread(2893634448) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388576][3078273936] RecvThread(3078273936) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388677][3069881232] RecvThread(3069881232) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388776][3061488528] RecvThread(3061488528) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388876][3053095824] RecvThread(3053095824) recv an exit notice, so exit.
+[2008-05-03 22:10:38 388975][3044703120] RecvThread(3044703120) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389075][3036310416] RecvThread(3036310416) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389174][3027917712] RecvThread(3027917712) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389274][3019525008] RecvThread(3019525008) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389373][3011132304] RecvThread(3011132304) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389473][3002739600] RecvThread(3002739600) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389572][2994346896] RecvThread(2994346896) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389672][2985954192] RecvThread(2985954192) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389771][2977561488] RecvThread(2977561488) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389870][2969168784] RecvThread(2969168784) recv an exit notice, so exit.
+[2008-05-03 22:10:38 389970][2960776080] RecvThread(2960776080) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390070][2952383376] RecvThread(2952383376) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390170][2943990672] RecvThread(2943990672) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390269][2935597968] RecvThread(2935597968) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390370][2927205264] RecvThread(2927205264) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390469][2918812560] RecvThread(2918812560) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390568][2910419856] RecvThread(2910419856) recv an exit notice, so exit.
+[2008-05-03 22:10:38 390668][2902027152] RecvThread(2902027152) recv an exit notice, so exit.
+[2008-05-03 22:10:38 503042][2826492816] P_MaintainThread(2826492816) recv an exit notice, so exit.
+[2008-05-03 22:10:38 503156][2818100112] R_MaintainThread(2818100112) recv an exit notice, so exit.
+[2008-05-03 22:10:38 603571][3086666640] ConnectThread(3086666640) recv an exit notice, so exit.
+[2008-05-03 22:10:38 687047][135960656] all children exited, begin to save duty queue.
+[2008-05-03 22:10:38 687129][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-03 22:13:31 671892][135960656] newoctopusd begin to running......
+[2008-05-03 22:13:31 672099][135960656] ===Init logmng module successfully===
+[2008-05-03 22:13:31 672201][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:13:31 672888][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:13:31 672983][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:13:31 673532][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:13:31 673675][135960656] ===Init configmng module successfully===
+[2008-05-03 22:13:31 673756][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:13:31 673870][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-03 22:13:31 673968][135960656] ===Init maintain module successfully===
+[2008-05-03 22:13:31 674047][135960656] Begin to create socket server(ALL, 8123)......
+[2008-05-03 22:13:31 674184][135960656] Create socket server(ALL, 8123) successfully
+[2008-05-03 22:13:31 674285][135960656] ===Create server(ALL,8123) socket listen successfully===
+[2008-05-03 22:13:31 675245][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:13:31 675323][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:13:31 675448][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:13:31 676735][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:13:31 676860][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:13:31 676980][135960656] ===Init all child thread successfully===
+[2008-05-03 22:13:31 677063][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:13:31 677703][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:13:31 771067][3086683024] ConnectthreadID = 3086683024 PID = 24940
+[2008-05-03 22:13:31 771202][3078290320] RecvthreadID = 3078290320 PID = 24940
+[2008-05-03 22:13:31 771308][3069897616] RecvthreadID = 3069897616 PID = 24940
+[2008-05-03 22:13:31 771411][3061504912] RecvthreadID = 3061504912 PID = 24940
+[2008-05-03 22:13:31 771514][3053112208] RecvthreadID = 3053112208 PID = 24940
+[2008-05-03 22:13:31 771615][3044719504] RecvthreadID = 3044719504 PID = 24940
+[2008-05-03 22:13:31 771716][3036326800] RecvthreadID = 3036326800 PID = 24940
+[2008-05-03 22:13:31 771817][3027934096] RecvthreadID = 3027934096 PID = 24940
+[2008-05-03 22:13:31 771918][3019541392] RecvthreadID = 3019541392 PID = 24940
+[2008-05-03 22:13:31 772019][3011148688] RecvthreadID = 3011148688 PID = 24940
+[2008-05-03 22:13:31 772121][3002755984] RecvthreadID = 3002755984 PID = 24940
+[2008-05-03 22:13:31 772223][2994363280] RecvthreadID = 2994363280 PID = 24940
+[2008-05-03 22:13:31 772324][2985970576] RecvthreadID = 2985970576 PID = 24940
+[2008-05-03 22:13:31 772426][2977577872] RecvthreadID = 2977577872 PID = 24940
+[2008-05-03 22:13:31 772527][2969185168] RecvthreadID = 2969185168 PID = 24940
+[2008-05-03 22:13:31 772629][2960792464] RecvthreadID = 2960792464 PID = 24940
+[2008-05-03 22:13:31 772730][2952399760] RecvthreadID = 2952399760 PID = 24940
+[2008-05-03 22:13:31 772831][2944007056] RecvthreadID = 2944007056 PID = 24940
+[2008-05-03 22:13:31 772933][2935614352] RecvthreadID = 2935614352 PID = 24940
+[2008-05-03 22:13:31 773035][2927221648] RecvthreadID = 2927221648 PID = 24940
+[2008-05-03 22:13:31 773136][2918828944] RecvthreadID = 2918828944 PID = 24940
+[2008-05-03 22:13:31 773238][2910436240] RecvthreadID = 2910436240 PID = 24940
+[2008-05-03 22:13:31 773340][2902043536] RecvthreadID = 2902043536 PID = 24940
+[2008-05-03 22:13:31 773442][2893650832] RecvthreadID = 2893650832 PID = 24940
+[2008-05-03 22:13:31 773544][2885258128] RecvthreadID = 2885258128 PID = 24940
+[2008-05-03 22:13:31 773714][2876865424] RecvthreadID = 2876865424 PID = 24940
+[2008-05-03 22:13:31 773815][2868472720] RecvthreadID = 2868472720 PID = 24940
+[2008-05-03 22:13:31 773913][2860080016] RecvthreadID = 2860080016 PID = 24940
+[2008-05-03 22:13:31 774011][2851687312] RecvthreadID = 2851687312 PID = 24940
+[2008-05-03 22:13:31 774110][2843294608] RecvthreadID = 2843294608 PID = 24940
+[2008-05-03 22:13:31 774209][2834901904] RecvthreadID = 2834901904 PID = 24940
+[2008-05-03 22:13:31 774317][2826509200] P_MaintainthreadID = 2826509200 PID = 24940
+[2008-05-03 22:13:31 774417][2818116496] R_MaintainthreadID = 2818116496 PID = 24940
+[2008-05-03 22:13:41 675220][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:14:09 672715][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-03 22:14:09 672865][3044719504] RecvThread(3044719504) recv an exit notice, so exit.
+[2008-05-03 22:14:09 672998][2893650832] RecvThread(2893650832) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673107][3027934096] RecvThread(3027934096) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673214][3019541392] RecvThread(3019541392) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673319][3011148688] RecvThread(3011148688) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673424][3002755984] RecvThread(3002755984) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673529][2994363280] RecvThread(2994363280) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673634][2985970576] RecvThread(2985970576) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673738][2977577872] RecvThread(2977577872) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673843][2969185168] RecvThread(2969185168) recv an exit notice, so exit.
+[2008-05-03 22:14:09 673947][2960792464] RecvThread(2960792464) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674052][2952399760] RecvThread(2952399760) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674157][2944007056] RecvThread(2944007056) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674261][2935614352] RecvThread(2935614352) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674371][2927221648] RecvThread(2927221648) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674475][2918828944] RecvThread(2918828944) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674579][2910436240] RecvThread(2910436240) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674684][2902043536] RecvThread(2902043536) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674788][3036326800] RecvThread(3036326800) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674891][3053112208] RecvThread(3053112208) recv an exit notice, so exit.
+[2008-05-03 22:14:09 674994][2885258128] RecvThread(2885258128) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675099][2876865424] RecvThread(2876865424) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675204][2868472720] RecvThread(2868472720) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675313][2860080016] RecvThread(2860080016) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675419][2851687312] RecvThread(2851687312) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675524][2843294608] RecvThread(2843294608) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675629][2834901904] RecvThread(2834901904) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675736][3078290320] RecvThread(3078290320) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675841][3069897616] RecvThread(3069897616) recv an exit notice, so exit.
+[2008-05-03 22:14:09 675945][3061504912] RecvThread(3061504912) recv an exit notice, so exit.
+[2008-05-03 22:14:09 783043][2826509200] P_MaintainThread(2826509200) recv an exit notice, so exit.
+[2008-05-03 22:14:09 783165][2818116496] R_MaintainThread(2818116496) recv an exit notice, so exit.
+[2008-05-03 22:14:09 924790][3086683024] ConnectThread(3086683024) recv an exit notice, so exit.
+[2008-05-03 22:14:09 971049][135960656] all children exited, begin to save duty queue.
+[2008-05-03 22:14:09 971206][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-03 22:16:39 916104][135960656] newoctopusd begin to running......
+[2008-05-03 22:16:39 916305][135960656] ===Init logmng module successfully===
+[2008-05-03 22:16:39 916403][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:16:39 917094][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:16:39 917186][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:16:39 917728][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:16:39 917866][135960656] ===Init configmng module successfully===
+[2008-05-03 22:16:39 917942][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:16:39 918077][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-03 22:16:39 918172][135960656] ===Init maintain module successfully===
+[2008-05-03 22:16:39 918246][135960656] Begin to create socket server(ALL, 8127)......
+[2008-05-03 22:16:39 918382][135960656] Create socket server(ALL, 8127) successfully
+[2008-05-03 22:16:39 918455][135960656] ===Create server(ALL,8127) socket listen successfully===
+[2008-05-03 22:16:39 918551][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:16:39 918620][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:16:39 919656][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:16:39 920951][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:16:39 921073][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:16:39 921188][135960656] ===Init all child thread successfully===
+[2008-05-03 22:16:39 921267][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:16:39 921903][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:16:40 015068][3086551952] ConnectthreadID = 3086551952 PID = 25922
+[2008-05-03 22:16:40 015199][3078159248] RecvthreadID = 3078159248 PID = 25922
+[2008-05-03 22:16:40 015299][3069766544] RecvthreadID = 3069766544 PID = 25922
+[2008-05-03 22:16:40 015398][3061373840] RecvthreadID = 3061373840 PID = 25922
+[2008-05-03 22:16:40 015494][3052981136] RecvthreadID = 3052981136 PID = 25922
+[2008-05-03 22:16:40 015591][3044588432] RecvthreadID = 3044588432 PID = 25922
+[2008-05-03 22:16:40 015687][3036195728] RecvthreadID = 3036195728 PID = 25922
+[2008-05-03 22:16:40 015783][3027803024] RecvthreadID = 3027803024 PID = 25922
+[2008-05-03 22:16:40 015880][3019410320] RecvthreadID = 3019410320 PID = 25922
+[2008-05-03 22:16:40 015977][3011017616] RecvthreadID = 3011017616 PID = 25922
+[2008-05-03 22:16:40 016073][3002624912] RecvthreadID = 3002624912 PID = 25922
+[2008-05-03 22:16:40 016170][2994232208] RecvthreadID = 2994232208 PID = 25922
+[2008-05-03 22:16:40 016266][2985839504] RecvthreadID = 2985839504 PID = 25922
+[2008-05-03 22:16:40 016363][2977446800] RecvthreadID = 2977446800 PID = 25922
+[2008-05-03 22:16:40 016459][2969054096] RecvthreadID = 2969054096 PID = 25922
+[2008-05-03 22:16:40 016556][2960661392] RecvthreadID = 2960661392 PID = 25922
+[2008-05-03 22:16:40 016653][2952268688] RecvthreadID = 2952268688 PID = 25922
+[2008-05-03 22:16:40 016750][2943875984] RecvthreadID = 2943875984 PID = 25922
+[2008-05-03 22:16:40 016847][2935483280] RecvthreadID = 2935483280 PID = 25922
+[2008-05-03 22:16:40 016943][2927090576] RecvthreadID = 2927090576 PID = 25922
+[2008-05-03 22:16:40 017040][2918697872] RecvthreadID = 2918697872 PID = 25922
+[2008-05-03 22:16:40 017137][2910305168] RecvthreadID = 2910305168 PID = 25922
+[2008-05-03 22:16:40 017234][2901912464] RecvthreadID = 2901912464 PID = 25922
+[2008-05-03 22:16:40 017332][2893519760] RecvthreadID = 2893519760 PID = 25922
+[2008-05-03 22:16:40 017429][2885127056] RecvthreadID = 2885127056 PID = 25922
+[2008-05-03 22:16:40 017527][2876734352] RecvthreadID = 2876734352 PID = 25922
+[2008-05-03 22:16:40 017624][2868341648] RecvthreadID = 2868341648 PID = 25922
+[2008-05-03 22:16:40 017787][2859948944] RecvthreadID = 2859948944 PID = 25922
+[2008-05-03 22:16:40 017888][2851556240] RecvthreadID = 2851556240 PID = 25922
+[2008-05-03 22:16:40 017987][2843163536] RecvthreadID = 2843163536 PID = 25922
+[2008-05-03 22:16:40 018104][2834770832] RecvthreadID = 2834770832 PID = 25922
+[2008-05-03 22:16:40 022105][2826378128] P_MaintainthreadID = 2826378128 PID = 25922
+[2008-05-03 22:16:40 022206][2817985424] R_MaintainthreadID = 2817985424 PID = 25922
+[2008-05-03 22:16:49 922896][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:16:49 923415][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-03 22:16:49 926719][2834770832] RecvThread(2834770832) recv an exit notice, so exit.
+[2008-05-03 22:16:49 926849][3078159248] RecvThread(3078159248) recv an exit notice, so exit.
+[2008-05-03 22:16:49 926958][2843163536] RecvThread(2843163536) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927064][3061373840] RecvThread(3061373840) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927170][3052981136] RecvThread(3052981136) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927273][3044588432] RecvThread(3044588432) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927377][3036195728] RecvThread(3036195728) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927481][3027803024] RecvThread(3027803024) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927585][3019410320] RecvThread(3019410320) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927689][3011017616] RecvThread(3011017616) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927793][3002624912] RecvThread(3002624912) recv an exit notice, so exit.
+[2008-05-03 22:16:49 927897][2994232208] RecvThread(2994232208) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928005][2985839504] RecvThread(2985839504) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928109][2977446800] RecvThread(2977446800) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928213][2969054096] RecvThread(2969054096) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928315][3069766544] RecvThread(3069766544) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928419][2960661392] RecvThread(2960661392) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928524][2952268688] RecvThread(2952268688) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928627][2943875984] RecvThread(2943875984) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928732][2935483280] RecvThread(2935483280) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928835][2927090576] RecvThread(2927090576) recv an exit notice, so exit.
+[2008-05-03 22:16:49 928942][2918697872] RecvThread(2918697872) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929045][2910305168] RecvThread(2910305168) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929148][2901912464] RecvThread(2901912464) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929252][2893519760] RecvThread(2893519760) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929355][2885127056] RecvThread(2885127056) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929459][2876734352] RecvThread(2876734352) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929562][2868341648] RecvThread(2868341648) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929666][2859948944] RecvThread(2859948944) recv an exit notice, so exit.
+[2008-05-03 22:16:49 929769][2851556240] RecvThread(2851556240) recv an exit notice, so exit.
+[2008-05-03 22:16:50 019129][2826378128] P_MaintainThread(2826378128) recv an exit notice, so exit.
+[2008-05-03 22:16:50 019249][2817985424] R_MaintainThread(2817985424) recv an exit notice, so exit.
+[2008-05-03 22:16:50 074788][3086551952] ConnectThread(3086551952) recv an exit notice, so exit.
+[2008-05-03 22:16:50 119128][135960656] all children exited, begin to save duty queue.
+[2008-05-03 22:16:50 119206][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-03 22:25:18 613347][135960656] newoctopusd begin to running......
+[2008-05-03 22:25:18 613595][135960656] ===Init logmng module successfully===
+[2008-05-03 22:25:18 613696][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:25:18 614390][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:25:18 614703][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:25:18 615252][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:25:18 615389][135960656] ===Init configmng module successfully===
+[2008-05-03 22:25:18 615465][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:25:18 615577][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-03 22:25:18 615670][135960656] ===Init maintain module successfully===
+[2008-05-03 22:25:18 615745][135960656] Begin to create socket server(ALL, 21826)......
+[2008-05-03 22:25:18 615876][135960656] Create socket server(ALL, 21826) successfully
+[2008-05-03 22:25:18 615950][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2008-05-03 22:25:18 616046][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:25:18 616116][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:25:18 616235][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:25:18 618712][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:25:18 618849][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:25:18 618969][135960656] ===Init all child thread successfully===
+[2008-05-03 22:25:18 619048][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:25:18 619692][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:25:18 714781][3086949264] ConnectthreadID = 3086949264 PID = 28492
+[2008-05-03 22:25:18 714909][3078556560] RecvthreadID = 3078556560 PID = 28492
+[2008-05-03 22:25:18 715009][3070163856] RecvthreadID = 3070163856 PID = 28492
+[2008-05-03 22:25:18 715106][3061771152] RecvthreadID = 3061771152 PID = 28492
+[2008-05-03 22:25:18 715203][3053378448] RecvthreadID = 3053378448 PID = 28492
+[2008-05-03 22:25:18 715300][3044985744] RecvthreadID = 3044985744 PID = 28492
+[2008-05-03 22:25:18 715397][3036593040] RecvthreadID = 3036593040 PID = 28492
+[2008-05-03 22:25:18 715495][3028200336] RecvthreadID = 3028200336 PID = 28492
+[2008-05-03 22:25:18 715592][3019807632] RecvthreadID = 3019807632 PID = 28492
+[2008-05-03 22:25:18 715690][3011414928] RecvthreadID = 3011414928 PID = 28492
+[2008-05-03 22:25:18 715787][3003022224] RecvthreadID = 3003022224 PID = 28492
+[2008-05-03 22:25:18 715885][2994629520] RecvthreadID = 2994629520 PID = 28492
+[2008-05-03 22:25:18 715983][2986236816] RecvthreadID = 2986236816 PID = 28492
+[2008-05-03 22:25:18 716079][2977844112] RecvthreadID = 2977844112 PID = 28492
+[2008-05-03 22:25:18 716176][2969451408] RecvthreadID = 2969451408 PID = 28492
+[2008-05-03 22:25:18 716273][2961058704] RecvthreadID = 2961058704 PID = 28492
+[2008-05-03 22:25:18 716370][2952666000] RecvthreadID = 2952666000 PID = 28492
+[2008-05-03 22:25:18 716466][2944273296] RecvthreadID = 2944273296 PID = 28492
+[2008-05-03 22:25:18 716565][2935880592] RecvthreadID = 2935880592 PID = 28492
+[2008-05-03 22:25:18 716662][2927487888] RecvthreadID = 2927487888 PID = 28492
+[2008-05-03 22:25:18 716759][2919095184] RecvthreadID = 2919095184 PID = 28492
+[2008-05-03 22:25:18 716856][2910702480] RecvthreadID = 2910702480 PID = 28492
+[2008-05-03 22:25:18 716954][2902309776] RecvthreadID = 2902309776 PID = 28492
+[2008-05-03 22:25:18 717052][2893917072] RecvthreadID = 2893917072 PID = 28492
+[2008-05-03 22:25:18 717151][2885524368] RecvthreadID = 2885524368 PID = 28492
+[2008-05-03 22:25:18 717249][2877131664] RecvthreadID = 2877131664 PID = 28492
+[2008-05-03 22:25:18 717346][2868738960] RecvthreadID = 2868738960 PID = 28492
+[2008-05-03 22:25:18 718799][2860346256] RecvthreadID = 2860346256 PID = 28492
+[2008-05-03 22:25:18 718898][2851953552] RecvthreadID = 2851953552 PID = 28492
+[2008-05-03 22:25:18 719107][2843560848] RecvthreadID = 2843560848 PID = 28492
+[2008-05-03 22:25:18 719208][2835168144] RecvthreadID = 2835168144 PID = 28492
+[2008-05-03 22:25:18 719437][2826775440] P_MaintainthreadID = 2826775440 PID = 28492
+[2008-05-03 22:25:18 719537][2818382736] R_MaintainthreadID = 2818382736 PID = 28492
+[2008-05-03 22:25:28 615515][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 22:44:46 002044][2952666000] Mv file(/home/bud/SiteWizard/d3/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d3/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 22:44:46 016762][2994629520] cp file(/home/bud/SiteWizard/d3/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d3/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-03 22:48:34 498735][3070163856] Mv file(/home/bud/SiteWizard/d3/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d3/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 22:48:34 502425][3070163856] cp file(/home/bud/SiteWizard/d3/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d3/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-03 22:56:02 846097][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-03 22:56:02 847272][2961058704] RecvThread(2961058704) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847422][2919095184] RecvThread(2919095184) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847526][2860346256] RecvThread(2860346256) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847657][2835168144] RecvThread(2835168144) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847758][2877131664] RecvThread(2877131664) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847857][2944273296] RecvThread(2944273296) recv an exit notice, so exit.
+[2008-05-03 22:56:02 847980][2977844112] RecvThread(2977844112) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848081][3036593040] RecvThread(3036593040) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848179][2910702480] RecvThread(2910702480) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848278][2902309776] RecvThread(2902309776) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848375][3028200336] RecvThread(3028200336) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848473][2969451408] RecvThread(2969451408) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848580][2994629520] RecvThread(2994629520) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848681][2893917072] RecvThread(2893917072) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848779][2851953552] RecvThread(2851953552) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848887][2927487888] RecvThread(2927487888) recv an exit notice, so exit.
+[2008-05-03 22:56:02 848986][2843560848] RecvThread(2843560848) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849084][3078556560] RecvThread(3078556560) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849182][2952666000] RecvThread(2952666000) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849281][2986236816] RecvThread(2986236816) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849380][2868738960] RecvThread(2868738960) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849478][2885524368] RecvThread(2885524368) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849577][3011414928] RecvThread(3011414928) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849686][3061771152] RecvThread(3061771152) recv an exit notice, so exit.
+[2008-05-03 22:56:02 849982][3070163856] RecvThread(3070163856) recv an exit notice, so exit.
+[2008-05-03 22:56:02 850091][3053378448] RecvThread(3053378448) recv an exit notice, so exit.
+[2008-05-03 22:56:02 850206][3003022224] RecvThread(3003022224) recv an exit notice, so exit.
+[2008-05-03 22:56:02 850306][3019807632] RecvThread(3019807632) recv an exit notice, so exit.
+[2008-05-03 22:56:02 850432][3044985744] RecvThread(3044985744) recv an exit notice, so exit.
+[2008-05-03 22:56:02 850895][2935880592] RecvThread(2935880592) recv an exit notice, so exit.
+[2008-05-03 22:56:02 954028][2826775440] P_MaintainThread(2826775440) recv an exit notice, so exit.
+[2008-05-03 22:56:02 954162][2818382736] R_MaintainThread(2818382736) recv an exit notice, so exit.
+[2008-05-03 22:56:03 190048][3086949264] ConnectThread(3086949264) recv an exit notice, so exit.
+[2008-05-03 22:56:03 246046][135960656] all children exited, begin to save duty queue.
+[2008-05-03 22:56:03 246154][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-03 22:56:04 489631][135960656] newoctopusd begin to running......
+[2008-05-03 22:56:04 492840][135960656] ===Init logmng module successfully===
+[2008-05-03 22:56:04 493061][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-03 22:56:04 493793][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-03 22:56:04 495985][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-03 22:56:04 496538][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-03 22:56:04 496773][135960656] ===Init configmng module successfully===
+[2008-05-03 22:56:04 496852][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-03 22:56:04 496966][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-03 22:56:04 497059][135960656] ===Init maintain module successfully===
+[2008-05-03 22:56:04 497133][135960656] Begin to create socket server(ALL, 21826)......
+[2008-05-03 22:56:04 497267][135960656] Create socket server(ALL, 21826) successfully
+[2008-05-03 22:56:04 497341][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2008-05-03 22:56:04 497437][135960656] ===Init queuemng module successfully===
+[2008-05-03 22:56:04 497507][135960656] Begin to create ConnectThread(1)......
+[2008-05-03 22:56:04 497633][135960656] Begin to create RecvThread(30)......
+[2008-05-03 22:56:04 500933][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-03 22:56:04 501080][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-03 22:56:04 501197][135960656] ===Init all child thread successfully===
+[2008-05-03 22:56:04 501277][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-03 22:56:04 504097][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-03 22:56:04 599816][3086891920] ConnectthreadID = 3086891920 PID = 6055
+[2008-05-03 22:56:04 599987][3078499216] RecvthreadID = 3078499216 PID = 6055
+[2008-05-03 22:56:04 600091][3070106512] RecvthreadID = 3070106512 PID = 6055
+[2008-05-03 22:56:04 600193][3061713808] RecvthreadID = 3061713808 PID = 6055
+[2008-05-03 22:56:04 600293][3053321104] RecvthreadID = 3053321104 PID = 6055
+[2008-05-03 22:56:04 600392][3044928400] RecvthreadID = 3044928400 PID = 6055
+[2008-05-03 22:56:04 600490][3036535696] RecvthreadID = 3036535696 PID = 6055
+[2008-05-03 22:56:04 600589][3028142992] RecvthreadID = 3028142992 PID = 6055
+[2008-05-03 22:56:04 600688][3019750288] RecvthreadID = 3019750288 PID = 6055
+[2008-05-03 22:56:04 600786][3011357584] RecvthreadID = 3011357584 PID = 6055
+[2008-05-03 22:56:04 600885][3002964880] RecvthreadID = 3002964880 PID = 6055
+[2008-05-03 22:56:04 600984][2994572176] RecvthreadID = 2994572176 PID = 6055
+[2008-05-03 22:56:04 601082][2986179472] RecvthreadID = 2986179472 PID = 6055
+[2008-05-03 22:56:04 601181][2977786768] RecvthreadID = 2977786768 PID = 6055
+[2008-05-03 22:56:04 601281][2969394064] RecvthreadID = 2969394064 PID = 6055
+[2008-05-03 22:56:04 601381][2961001360] RecvthreadID = 2961001360 PID = 6055
+[2008-05-03 22:56:04 601480][2952608656] RecvthreadID = 2952608656 PID = 6055
+[2008-05-03 22:56:04 601578][2944215952] RecvthreadID = 2944215952 PID = 6055
+[2008-05-03 22:56:04 601677][2935823248] RecvthreadID = 2935823248 PID = 6055
+[2008-05-03 22:56:04 601776][2927430544] RecvthreadID = 2927430544 PID = 6055
+[2008-05-03 22:56:04 603904][2919037840] RecvthreadID = 2919037840 PID = 6055
+[2008-05-03 22:56:04 603980][2910645136] RecvthreadID = 2910645136 PID = 6055
+[2008-05-03 22:56:04 604045][2902252432] RecvthreadID = 2902252432 PID = 6055
+[2008-05-03 22:56:04 604117][2893859728] RecvthreadID = 2893859728 PID = 6055
+[2008-05-03 22:56:04 604183][2885467024] RecvthreadID = 2885467024 PID = 6055
+[2008-05-03 22:56:04 604250][2877074320] RecvthreadID = 2877074320 PID = 6055
+[2008-05-03 22:56:04 604314][2868681616] RecvthreadID = 2868681616 PID = 6055
+[2008-05-03 22:56:04 604379][2860288912] RecvthreadID = 2860288912 PID = 6055
+[2008-05-03 22:56:04 604443][2851896208] RecvthreadID = 2851896208 PID = 6055
+[2008-05-03 22:56:04 604507][2843503504] RecvthreadID = 2843503504 PID = 6055
+[2008-05-03 22:56:04 604572][2835110800] RecvthreadID = 2835110800 PID = 6055
+[2008-05-03 22:56:04 604629][2826718096] P_MaintainthreadID = 2826718096 PID = 6055
+[2008-05-03 22:56:04 604694][2818325392] R_MaintainthreadID = 2818325392 PID = 6055
+[2008-05-03 22:56:14 504677][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-03 23:04:14 433775][3019750288] Mv file(/home/bud/SiteWizard/d4/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d4/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 23:05:27 670364][2961001360] Mv file(/home/bud/SiteWizard/d4/site/news/pw_test_20060425_2.txt /home/bud/SiteWizard/d4/site/sports/pw_test_20060425_2.txt) failed, but continue.
+[2008-05-03 23:05:27 686761][2860288912] cp file(/home/bud/SiteWizard/d4/site/sports/pw_test_20060425_4.txt /home/bud/SiteWizard/d4/site/news/pw_test_20060425_6.txt) failed, but continue.
+[2008-05-08 00:06:30 780821][2944215952] FileUploadMsg invalid because site:datalib does not exist.
+[2008-05-08 00:06:30 808781][2860288912] FileUploadMsg invalid because site:datalib does not exist.
+[2008-05-08 00:06:30 826271][2860288912] FileUploadMsg invalid because site:datalib does not exist.
+[2008-05-08 00:06:30 831111][2860288912] FileUploadMsg invalid because site:datalib does not exist.
+[2008-05-08 00:09:43 885808][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-08 00:09:43 886335][3019750288] RecvThread(3019750288) recv an exit notice, so exit.
+[2008-05-08 00:09:43 886685][3061713808] RecvThread(3061713808) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887541][2885467024] RecvThread(2885467024) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887682][2952608656] RecvThread(2952608656) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887925][2893859728] RecvThread(2893859728) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887994][2969394064] RecvThread(2969394064) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888248][2961001360] RecvThread(2961001360) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888322][2986179472] RecvThread(2986179472) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888378][3078499216] RecvThread(3078499216) recv an exit notice, so exit.
+[2008-05-08 00:09:43 923123][2944215952] RecvThread(2944215952) recv an exit notice, so exit.
+[2008-05-08 00:09:43 923765][3070106512] RecvThread(3070106512) recv an exit notice, so exit.
+[2008-05-08 00:09:43 923932][2860288912] RecvThread(2860288912) recv an exit notice, so exit.
+[2008-05-08 00:09:43 886730][2902252432] RecvThread(2902252432) recv an exit notice, so exit.
+[2008-05-08 00:09:43 886956][2935823248] RecvThread(2935823248) recv an exit notice, so exit.
+[2008-05-08 00:09:43 886990][2843503504] RecvThread(2843503504) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887174][2868681616] RecvThread(2868681616) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887207][3011357584] RecvThread(3011357584) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887403][2835110800] RecvThread(2835110800) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887441][2994572176] RecvThread(2994572176) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887463][3044928400] RecvThread(3044928400) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887519][3036535696] RecvThread(3036535696) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887733][3002964880] RecvThread(3002964880) recv an exit notice, so exit.
+[2008-05-08 00:09:43 887878][3028142992] RecvThread(3028142992) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888027][2919037840] RecvThread(2919037840) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888075][2877074320] RecvThread(2877074320) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888106][2910645136] RecvThread(2910645136) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888155][2977786768] RecvThread(2977786768) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888178][2851896208] RecvThread(2851896208) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888225][2927430544] RecvThread(2927430544) recv an exit notice, so exit.
+[2008-05-08 00:09:43 888478][3053321104] RecvThread(3053321104) recv an exit notice, so exit.
+[2008-05-08 00:09:44 764591][2818325392] R_MaintainThread(2818325392) recv an exit notice, so exit.
+[2008-05-08 00:09:44 869036][3086891920] ConnectThread(3086891920) recv an exit notice, so exit.
+[2008-05-08 00:09:44 885090][2826718096] P_MaintainThread(2826718096) recv an exit notice, so exit.
+[2008-05-08 00:09:44 893042][135960656] all children exited, begin to save duty queue.
+[2008-05-08 00:09:44 893150][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-08 00:09:49 072209][135960656] newoctopusd begin to running......
+[2008-05-08 00:09:49 072403][135960656] ===Init logmng module successfully===
+[2008-05-08 00:09:49 072503][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-08 00:09:49 076319][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-08 00:09:49 076435][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-08 00:09:49 079339][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-08 00:09:49 079503][135960656] ===Init configmng module successfully===
+[2008-05-08 00:09:49 079581][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-08 00:09:49 079699][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-08 00:09:49 079797][135960656] ===Init maintain module successfully===
+[2008-05-08 00:09:49 079872][135960656] Begin to create socket server(ALL, 21826)......
+[2008-05-08 00:09:49 080035][135960656] Create socket server(ALL, 21826) successfully
+[2008-05-08 00:09:49 080109][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2008-05-08 00:09:49 080208][135960656] ===Init queuemng module successfully===
+[2008-05-08 00:09:49 080278][135960656] Begin to create ConnectThread(1)......
+[2008-05-08 00:09:49 080404][135960656] Begin to create RecvThread(30)......
+[2008-05-08 00:09:49 083837][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-08 00:09:49 083978][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-08 00:09:49 084096][135960656] ===Init all child thread successfully===
+[2008-05-08 00:09:49 084176][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-08 00:09:49 084817][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-08 00:09:49 179097][3086146448] ConnectthreadID = 3086146448 PID = 11112
+[2008-05-08 00:09:49 179268][3077753744] RecvthreadID = 3077753744 PID = 11112
+[2008-05-08 00:09:49 179371][3069361040] RecvthreadID = 3069361040 PID = 11112
+[2008-05-08 00:09:49 179473][3060968336] RecvthreadID = 3060968336 PID = 11112
+[2008-05-08 00:09:49 179575][3052575632] RecvthreadID = 3052575632 PID = 11112
+[2008-05-08 00:09:49 179674][3044182928] RecvthreadID = 3044182928 PID = 11112
+[2008-05-08 00:09:49 179775][3035790224] RecvthreadID = 3035790224 PID = 11112
+[2008-05-08 00:09:49 179876][3027397520] RecvthreadID = 3027397520 PID = 11112
+[2008-05-08 00:09:49 179976][3019004816] RecvthreadID = 3019004816 PID = 11112
+[2008-05-08 00:09:49 180075][3010612112] RecvthreadID = 3010612112 PID = 11112
+[2008-05-08 00:09:49 183197][3002219408] RecvthreadID = 3002219408 PID = 11112
+[2008-05-08 00:09:49 183319][2993826704] RecvthreadID = 2993826704 PID = 11112
+[2008-05-08 00:09:49 183419][2985434000] RecvthreadID = 2985434000 PID = 11112
+[2008-05-08 00:09:49 183644][2977041296] RecvthreadID = 2977041296 PID = 11112
+[2008-05-08 00:09:49 183808][2968648592] RecvthreadID = 2968648592 PID = 11112
+[2008-05-08 00:09:49 183910][2960255888] RecvthreadID = 2960255888 PID = 11112
+[2008-05-08 00:09:49 184011][2951863184] RecvthreadID = 2951863184 PID = 11112
+[2008-05-08 00:09:49 184111][2943470480] RecvthreadID = 2943470480 PID = 11112
+[2008-05-08 00:09:49 184211][2935077776] RecvthreadID = 2935077776 PID = 11112
+[2008-05-08 00:09:49 184312][2926685072] RecvthreadID = 2926685072 PID = 11112
+[2008-05-08 00:09:49 184413][2918292368] RecvthreadID = 2918292368 PID = 11112
+[2008-05-08 00:09:49 184513][2909899664] RecvthreadID = 2909899664 PID = 11112
+[2008-05-08 00:09:49 184613][2901506960] RecvthreadID = 2901506960 PID = 11112
+[2008-05-08 00:09:49 184714][2893114256] RecvthreadID = 2893114256 PID = 11112
+[2008-05-08 00:09:49 184814][2884721552] RecvthreadID = 2884721552 PID = 11112
+[2008-05-08 00:09:49 184915][2876328848] RecvthreadID = 2876328848 PID = 11112
+[2008-05-08 00:09:49 187237][2867936144] RecvthreadID = 2867936144 PID = 11112
+[2008-05-08 00:09:49 187361][2859543440] RecvthreadID = 2859543440 PID = 11112
+[2008-05-08 00:09:49 187462][2851150736] RecvthreadID = 2851150736 PID = 11112
+[2008-05-08 00:09:49 187563][2842758032] RecvthreadID = 2842758032 PID = 11112
+[2008-05-08 00:09:49 187664][2834365328] RecvthreadID = 2834365328 PID = 11112
+[2008-05-08 00:09:49 187758][2825972624] P_MaintainthreadID = 2825972624 PID = 11112
+[2008-05-08 00:09:49 187860][2817579920] R_MaintainthreadID = 2817579920 PID = 11112
+[2008-05-08 00:09:59 088001][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-08 01:32:21 542892][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2008-05-08 01:32:21 543112][2851150736] RecvThread(2851150736) recv an exit notice, so exit.
+[2008-05-08 01:32:21 543253][3044182928] RecvThread(3044182928) recv an exit notice, so exit.
+[2008-05-08 01:32:21 543359][2977041296] RecvThread(2977041296) recv an exit notice, so exit.
+[2008-05-08 01:32:21 543464][2842758032] RecvThread(2842758032) recv an exit notice, so exit.
+[2008-05-08 01:32:21 543644][2935077776] RecvThread(2935077776) recv an exit notice, so exit.
+[2008-05-08 01:32:21 543976][3035790224] RecvThread(3035790224) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544390][2909899664] RecvThread(2909899664) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544513][2834365328] RecvThread(2834365328) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544616][3002219408] RecvThread(3002219408) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544714][2951863184] RecvThread(2951863184) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544812][3069361040] RecvThread(3069361040) recv an exit notice, so exit.
+[2008-05-08 01:32:21 544949][3060968336] RecvThread(3060968336) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545208][2867936144] RecvThread(2867936144) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545321][2968648592] RecvThread(2968648592) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545429][2859543440] RecvThread(2859543440) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545532][2893114256] RecvThread(2893114256) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545633][2943470480] RecvThread(2943470480) recv an exit notice, so exit.
+[2008-05-08 01:32:21 545763][3077753744] RecvThread(3077753744) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546002][2901506960] RecvThread(2901506960) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546152][2884721552] RecvThread(2884721552) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546259][2985434000] RecvThread(2985434000) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546366][3019004816] RecvThread(3019004816) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546642][2993826704] RecvThread(2993826704) recv an exit notice, so exit.
+[2008-05-08 01:32:21 546748][3027397520] RecvThread(3027397520) recv an exit notice, so exit.
+[2008-05-08 01:32:21 547006][2960255888] RecvThread(2960255888) recv an exit notice, so exit.
+[2008-05-08 01:32:21 547162][3010612112] RecvThread(3010612112) recv an exit notice, so exit.
+[2008-05-08 01:32:21 547676][2918292368] RecvThread(2918292368) recv an exit notice, so exit.
+[2008-05-08 01:32:21 547991][2876328848] RecvThread(2876328848) recv an exit notice, so exit.
+[2008-05-08 01:32:21 548108][3052575632] RecvThread(3052575632) recv an exit notice, so exit.
+[2008-05-08 01:32:21 548257][2926685072] RecvThread(2926685072) recv an exit notice, so exit.
+[2008-05-08 01:32:21 730815][2817579920] R_MaintainThread(2817579920) recv an exit notice, so exit.
+[2008-05-08 01:32:21 770947][2825972624] P_MaintainThread(2825972624) recv an exit notice, so exit.
+[2008-05-08 01:32:22 386940][3086146448] ConnectThread(3086146448) recv an exit notice, so exit.
+[2008-05-08 01:32:22 442878][135960656] all children exited, begin to save duty queue.
+[2008-05-08 01:32:22 442980][135960656] MainProcess confirm all children exited and exit itself.
+[2008-05-08 01:32:27 965620][135960656] newoctopusd begin to running......
+[2008-05-08 01:32:27 965828][135960656] ===Init logmng module successfully===
+[2008-05-08 01:32:27 965929][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/common.cfg ......
+[2008-05-08 01:32:27 966618][135960656] Read /home/bud/SiteWizard/d4/cfg/common.cfg Successfully.
+[2008-05-08 01:32:27 966710][135960656] Begin to read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg ......
+[2008-05-08 01:32:27 969567][135960656] Read /home/bud/SiteWizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-08 01:32:27 969730][135960656] ===Init configmng module successfully===
+[2008-05-08 01:32:27 969808][135960656] Begin to create ShareMem(/home/bud/SiteWizard/d4/bin, 0)......
+[2008-05-08 01:32:27 969924][135960656] ShareMem(id=53e88) exist, use it.
+[2008-05-08 01:32:27 970020][135960656] ===Init maintain module successfully===
+[2008-05-08 01:32:27 970095][135960656] Begin to create socket server(ALL, 21826)......
+[2008-05-08 01:32:27 970234][135960656] Create socket server(ALL, 21826) successfully
+[2008-05-08 01:32:27 970308][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2008-05-08 01:32:27 970408][135960656] ===Init queuemng module successfully===
+[2008-05-08 01:32:27 970479][135960656] Begin to create ConnectThread(1)......
+[2008-05-08 01:32:27 970605][135960656] Begin to create RecvThread(30)......
+[2008-05-08 01:32:27 977391][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-08 01:32:27 977547][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-08 01:32:27 977667][135960656] ===Init all child thread successfully===
+[2008-05-08 01:32:27 977749][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-08 01:32:27 978357][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-08 01:32:28 073024][3086023568] ConnectthreadID = 3086023568 PID = 7936
+[2008-05-08 01:32:28 073184][3077630864] RecvthreadID = 3077630864 PID = 7936
+[2008-05-08 01:32:28 073288][3069238160] RecvthreadID = 3069238160 PID = 7936
+[2008-05-08 01:32:28 073388][3060845456] RecvthreadID = 3060845456 PID = 7936
+[2008-05-08 01:32:28 073488][3052452752] RecvthreadID = 3052452752 PID = 7936
+[2008-05-08 01:32:28 073588][3044060048] RecvthreadID = 3044060048 PID = 7936
+[2008-05-08 01:32:28 073688][3035667344] RecvthreadID = 3035667344 PID = 7936
+[2008-05-08 01:32:28 073788][3027274640] RecvthreadID = 3027274640 PID = 7936
+[2008-05-08 01:32:28 073889][3018881936] RecvthreadID = 3018881936 PID = 7936
+[2008-05-08 01:32:28 073989][3010489232] RecvthreadID = 3010489232 PID = 7936
+[2008-05-08 01:32:28 074088][3002096528] RecvthreadID = 3002096528 PID = 7936
+[2008-05-08 01:32:28 074188][2993703824] RecvthreadID = 2993703824 PID = 7936
+[2008-05-08 01:32:28 074288][2985311120] RecvthreadID = 2985311120 PID = 7936
+[2008-05-08 01:32:28 074389][2976918416] RecvthreadID = 2976918416 PID = 7936
+[2008-05-08 01:32:28 074488][2968525712] RecvthreadID = 2968525712 PID = 7936
+[2008-05-08 01:32:28 074721][2960133008] RecvthreadID = 2960133008 PID = 7936
+[2008-05-08 01:32:28 074824][2951740304] RecvthreadID = 2951740304 PID = 7936
+[2008-05-08 01:32:28 077049][2943347600] RecvthreadID = 2943347600 PID = 7936
+[2008-05-08 01:32:28 077169][2934954896] RecvthreadID = 2934954896 PID = 7936
+[2008-05-08 01:32:28 077270][2926562192] RecvthreadID = 2926562192 PID = 7936
+[2008-05-08 01:32:28 077372][2918169488] RecvthreadID = 2918169488 PID = 7936
+[2008-05-08 01:32:28 077471][2909776784] RecvthreadID = 2909776784 PID = 7936
+[2008-05-08 01:32:28 077571][2901384080] RecvthreadID = 2901384080 PID = 7936
+[2008-05-08 01:32:28 077671][2892991376] RecvthreadID = 2892991376 PID = 7936
+[2008-05-08 01:32:28 077772][2884598672] RecvthreadID = 2884598672 PID = 7936
+[2008-05-08 01:32:28 077872][2876205968] RecvthreadID = 2876205968 PID = 7936
+[2008-05-08 01:32:28 078076][2867813264] RecvthreadID = 2867813264 PID = 7936
+[2008-05-08 01:32:28 078177][2859420560] RecvthreadID = 2859420560 PID = 7936
+[2008-05-08 01:32:28 078276][2851027856] RecvthreadID = 2851027856 PID = 7936
+[2008-05-08 01:32:28 078376][2842635152] RecvthreadID = 2842635152 PID = 7936
+[2008-05-08 01:32:28 078476][2834242448] RecvthreadID = 2834242448 PID = 7936
+[2008-05-08 01:32:28 078570][2825849744] P_MaintainthreadID = 2825849744 PID = 7936
+[2008-05-08 01:32:28 078672][2817457040] R_MaintainthreadID = 2817457040 PID = 7936
+[2008-05-08 01:32:37 973812][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2008-05-15 16:56:22 978376][135960656] Process is killed by signal 15
+[2008-05-19 20:38:23 055191][135960656] newoctopusd begin to running......
+[2008-05-19 20:38:23 055402][135960656] ===Init logmng module successfully===
+[2008-05-19 20:38:23 055501][135960656] Begin to read /srv/site_wizard/d4/cfg/common.cfg ......
+[2008-05-19 20:38:23 056186][135960656] Read /srv/site_wizard/d4/cfg/common.cfg Successfully.
+[2008-05-19 20:38:23 056276][135960656] Begin to read /srv/site_wizard/d4/cfg/siteinfo.cfg ......
+[2008-05-19 20:38:23 058859][135960656] Read /srv/site_wizard/d4/cfg/siteinfo.cfg successfully.
+[2008-05-19 20:38:23 059018][135960656] ===Init configmng module successfully===
+[2008-05-19 20:38:23 059095][135960656] Begin to create ShareMem(/srv/site_wizard/d4/bin, 0)......
+[2008-05-19 20:38:23 059236][135960656] Create ShareMem(id=6adca) successfully.
+[2008-05-19 20:38:23 059323][135960656] ===Init maintain module successfully===
+[2008-05-19 20:38:23 059607][135960656] Begin to create socket server(ALL, 21826)......
+[2008-05-19 20:38:23 059744][135960656] Create socket server(ALL, 21826) successfully
+[2008-05-19 20:38:23 059817][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2008-05-19 20:38:23 059927][135960656] ===Init queuemng module successfully===
+[2008-05-19 20:38:23 060214][135960656] Begin to create ConnectThread(1)......
+[2008-05-19 20:38:23 060370][135960656] Begin to create RecvThread(30)......
+[2008-05-19 20:38:23 067610][135960656] Begin to create P_MaintainThread(1)......
+[2008-05-19 20:38:23 067796][135960656] Begin to create R_MaintainThread(1)......
+[2008-05-19 20:38:23 067915][135960656] ===Init all child thread successfully===
+[2008-05-19 20:38:23 067996][135960656] newoctopusd(135960656) starts successfully and is running......
+[2008-05-19 20:38:23 071024][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2008-05-19 20:38:23 162452][3086355344] ConnectthreadID = 3086355344 PID = 14473
+[2008-05-19 20:38:23 162644][3077962640] RecvthreadID = 3077962640 PID = 14473
+[2008-05-19 20:38:23 162749][3069569936] RecvthreadID = 3069569936 PID = 14473
+[2008-05-19 20:38:23 162850][3061177232] RecvthreadID = 3061177232 PID = 14473
+[2008-05-19 20:38:23 162947][3052784528] RecvthreadID = 3052784528 PID = 14473
+[2008-05-19 20:38:23 163045][3044391824] RecvthreadID = 3044391824 PID = 14473
+[2008-05-19 20:38:23 163143][3035999120] RecvthreadID = 3035999120 PID = 14473
+[2008-05-19 20:38:23 163243][3027606416] RecvthreadID = 3027606416 PID = 14473
+[2008-05-19 20:38:23 163536][3019213712] RecvthreadID = 3019213712 PID = 14473
+[2008-05-19 20:38:23 163707][3010821008] RecvthreadID = 3010821008 PID = 14473
+[2008-05-19 20:38:23 164013][3002428304] RecvthreadID = 3002428304 PID = 14473
+[2008-05-19 20:38:23 164118][2994035600] RecvthreadID = 2994035600 PID = 14473
+[2008-05-19 20:38:23 164218][2985642896] RecvthreadID = 2985642896 PID = 14473
+[2008-05-19 20:38:23 164316][2977250192] RecvthreadID = 2977250192 PID = 14473
+[2008-05-19 20:38:23 164414][2968857488] RecvthreadID = 2968857488 PID = 14473
+[2008-05-19 20:38:23 166439][2960464784] RecvthreadID = 2960464784 PID = 14473
+[2008-05-19 20:38:23 166542][2952072080] RecvthreadID = 2952072080 PID = 14473
+[2008-05-19 20:38:23 166641][2943679376] RecvthreadID = 2943679376 PID = 14473
+[2008-05-19 20:38:23 166740][2935286672] RecvthreadID = 2935286672 PID = 14473
+[2008-05-19 20:38:23 166838][2926893968] RecvthreadID = 2926893968 PID = 14473
+[2008-05-19 20:38:23 166936][2918501264] RecvthreadID = 2918501264 PID = 14473
+[2008-05-19 20:38:23 167033][2910108560] RecvthreadID = 2910108560 PID = 14473
+[2008-05-19 20:38:23 167131][2901715856] RecvthreadID = 2901715856 PID = 14473
+[2008-05-19 20:38:23 167230][2893323152] RecvthreadID = 2893323152 PID = 14473
+[2008-05-19 20:38:23 167327][2884930448] RecvthreadID = 2884930448 PID = 14473
+[2008-05-19 20:38:23 167425][2876537744] RecvthreadID = 2876537744 PID = 14473
+[2008-05-19 20:38:23 167523][2868145040] RecvthreadID = 2868145040 PID = 14473
+[2008-05-19 20:38:23 167622][2859752336] RecvthreadID = 2859752336 PID = 14473
+[2008-05-19 20:38:23 167720][2851359632] RecvthreadID = 2851359632 PID = 14473
+[2008-05-19 20:38:23 170738][2842966928] RecvthreadID = 2842966928 PID = 14473
+[2008-05-19 20:38:23 171037][2834574224] RecvthreadID = 2834574224 PID = 14473
+[2008-05-19 20:38:23 171133][2826181520] P_MaintainthreadID = 2826181520 PID = 14473
+[2008-05-19 20:38:23 171234][2817788816] R_MaintainthreadID = 2817788816 PID = 14473
+[2008-05-19 20:38:33 071695][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-09 20:14:16 487983][135960656] newoctopusd begin to running......
+[2010-09-09 20:14:16 518943][135960656] ===Init logmng module successfully===
+[2010-09-09 20:14:16 519057][135960656] Begin to read /home/bud/newoctopusd/sample/d4/cfg/common.cfg ......
+[2010-09-09 20:14:16 519801][135960656] Read /home/bud/newoctopusd/sample/d4/cfg/common.cfg Successfully.
+[2010-09-09 20:14:16 519894][135960656] Begin to read /home/bud/newoctopusd/sample/d4/cfg/siteinfo.cfg ......
+[2010-09-09 20:14:16 521023][135960656] Read /home/bud/newoctopusd/sample/d4/cfg/siteinfo.cfg successfully.
+[2010-09-09 20:14:16 521177][135960656] ===Init configmng module successfully===
+[2010-09-09 20:14:16 521256][135960656] Begin to create ShareMem(/home/bud/newoctopusd/sample/d4/bin, 0)......
+[2010-09-09 20:14:16 521398][135960656] Create ShareMem(id=56c3f) successfully.
+[2010-09-09 20:14:16 521486][135960656] ===Init maintain module successfully===
+[2010-09-09 20:14:16 521562][135960656] Begin to create socket server(ALL, 21826)......
+[2010-09-09 20:14:16 521700][135960656] Create socket server(ALL, 21826) successfully
+[2010-09-09 20:14:16 521775][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2010-09-09 20:14:16 521885][135960656] ===Init queuemng module successfully===
+[2010-09-09 20:14:16 521956][135960656] Begin to create ConnectThread(1)......
+[2010-09-09 20:14:16 522487][135960656] Begin to create RecvThread(30)......
+[2010-09-09 20:14:16 523786][135960656] Begin to create P_MaintainThread(1)......
+[2010-09-09 20:14:16 523909][135960656] Begin to create R_MaintainThread(1)......
+[2010-09-09 20:14:16 524027][135960656] ===Init all child thread successfully===
+[2010-09-09 20:14:16 524107][135960656] newoctopusd(135960656) starts successfully and is running......
+[2010-09-09 20:14:16 525206][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2010-09-09 20:14:16 621817][3086756752] ConnectthreadID = 3086756752 PID = 4835
+[2010-09-09 20:14:16 622077][3078364048] RecvthreadID = 3078364048 PID = 4835
+[2010-09-09 20:14:16 622201][3069971344] RecvthreadID = 3069971344 PID = 4835
+[2010-09-09 20:14:16 622369][3061578640] RecvthreadID = 3061578640 PID = 4835
+[2010-09-09 20:14:16 622442][3053185936] RecvthreadID = 3053185936 PID = 4835
+[2010-09-09 20:14:16 623014][3044793232] RecvthreadID = 3044793232 PID = 4835
+[2010-09-09 20:14:16 623081][3036400528] RecvthreadID = 3036400528 PID = 4835
+[2010-09-09 20:14:16 623148][3028007824] RecvthreadID = 3028007824 PID = 4835
+[2010-09-09 20:14:16 623213][3019615120] RecvthreadID = 3019615120 PID = 4835
+[2010-09-09 20:14:16 623277][3011222416] RecvthreadID = 3011222416 PID = 4835
+[2010-09-09 20:14:16 623342][3002829712] RecvthreadID = 3002829712 PID = 4835
+[2010-09-09 20:14:16 623406][2994437008] RecvthreadID = 2994437008 PID = 4835
+[2010-09-09 20:14:16 623470][2986044304] RecvthreadID = 2986044304 PID = 4835
+[2010-09-09 20:14:16 623534][2977651600] RecvthreadID = 2977651600 PID = 4835
+[2010-09-09 20:14:16 623601][2969258896] RecvthreadID = 2969258896 PID = 4835
+[2010-09-09 20:14:16 623673][2960866192] RecvthreadID = 2960866192 PID = 4835
+[2010-09-09 20:14:16 623737][2952473488] RecvthreadID = 2952473488 PID = 4835
+[2010-09-09 20:14:16 623802][2944080784] RecvthreadID = 2944080784 PID = 4835
+[2010-09-09 20:14:16 623866][2935688080] RecvthreadID = 2935688080 PID = 4835
+[2010-09-09 20:14:16 623931][2927295376] RecvthreadID = 2927295376 PID = 4835
+[2010-09-09 20:14:16 623995][2918902672] RecvthreadID = 2918902672 PID = 4835
+[2010-09-09 20:14:16 624062][2910509968] RecvthreadID = 2910509968 PID = 4835
+[2010-09-09 20:14:16 624126][2902117264] RecvthreadID = 2902117264 PID = 4835
+[2010-09-09 20:14:16 624191][2893724560] RecvthreadID = 2893724560 PID = 4835
+[2010-09-09 20:14:16 624256][2885331856] RecvthreadID = 2885331856 PID = 4835
+[2010-09-09 20:14:16 625173][2868546448] RecvthreadID = 2868546448 PID = 4835
+[2010-09-09 20:14:16 625247][2860153744] RecvthreadID = 2860153744 PID = 4835
+[2010-09-09 20:14:16 625314][2851761040] RecvthreadID = 2851761040 PID = 4835
+[2010-09-09 20:14:16 625379][2843368336] RecvthreadID = 2843368336 PID = 4835
+[2010-09-09 20:14:16 625443][2834975632] RecvthreadID = 2834975632 PID = 4835
+[2010-09-09 20:14:16 626304][2826582928] P_MaintainthreadID = 2826582928 PID = 4835
+[2010-09-09 20:14:16 626377][2818190224] R_MaintainthreadID = 2818190224 PID = 4835
+[2010-09-09 20:14:16 624327][2876939152] RecvthreadID = 2876939152 PID = 4835
+[2010-09-09 20:14:26 527154][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-10 10:43:09 767449][135960656] newoctopusd begin to running......
+[2010-09-10 10:43:09 767570][135960656] ===Init logmng module successfully===
+[2010-09-10 10:43:09 767619][135960656] Begin to read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/common.cfg ......
+[2010-09-10 10:43:09 767916][135960656] Read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/common.cfg Successfully.
+[2010-09-10 10:43:09 767964][135960656] Begin to read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/siteinfo.cfg ......
+[2010-09-10 10:43:09 768364][135960656] Read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/siteinfo.cfg successfully.
+[2010-09-10 10:43:09 768436][135960656] ===Init configmng module successfully===
+[2010-09-10 10:43:09 768478][135960656] Begin to create ShareMem(/home/bud/newoctopusd/newoctopusd/sample/d4/bin, 0)......
+[2010-09-10 10:43:09 768569][135960656] Create ShareMem(id=240d8) successfully.
+[2010-09-10 10:43:09 768612][135960656] ===Init maintain module successfully===
+[2010-09-10 10:43:09 768649][135960656] Begin to create socket server(ALL, 21826)......
+[2010-09-10 10:43:09 768741][135960656] Create socket server(ALL, 21826) successfully
+[2010-09-10 10:43:09 768781][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2010-09-10 10:43:09 768840][135960656] ===Init queuemng module successfully===
+[2010-09-10 10:43:09 768878][135960656] Begin to create ConnectThread(1)......
+[2010-09-10 10:43:09 768977][135960656] Begin to create RecvThread(30)......
+[2010-09-10 10:43:09 769747][135960656] Begin to create P_MaintainThread(1)......
+[2010-09-10 10:43:09 769843][135960656] Begin to create R_MaintainThread(1)......
+[2010-09-10 10:43:09 769912][135960656] ===Init all child thread successfully===
+[2010-09-10 10:43:09 769956][135960656] newoctopusd(135960656) starts successfully and is running......
+[2010-09-10 10:43:09 770102][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2010-09-10 10:43:09 870543][3036633968] RecvthreadID = 3036633968 PID = 1072
+[2010-09-10 10:43:09 891563][3078597488] ConnectthreadID = 3078597488 PID = 1072
+[2010-09-10 10:43:09 891800][2810030960] R_MaintainthreadID = 2810030960 PID = 1072
+[2010-09-10 10:43:09 891972][3070204784] RecvthreadID = 3070204784 PID = 1072
+[2010-09-10 10:43:09 892177][3061812080] RecvthreadID = 3061812080 PID = 1072
+[2010-09-10 10:43:09 892347][3053419376] RecvthreadID = 3053419376 PID = 1072
+[2010-09-10 10:43:09 892514][3045026672] RecvthreadID = 3045026672 PID = 1072
+[2010-09-10 10:43:09 892681][3028241264] RecvthreadID = 3028241264 PID = 1072
+[2010-09-10 10:43:09 892829][3019848560] RecvthreadID = 3019848560 PID = 1072
+[2010-09-10 10:43:09 892972][3011455856] RecvthreadID = 3011455856 PID = 1072
+[2010-09-10 10:43:09 893135][3003063152] RecvthreadID = 3003063152 PID = 1072
+[2010-09-10 10:43:09 893304][2994670448] RecvthreadID = 2994670448 PID = 1072
+[2010-09-10 10:43:09 893472][2986277744] RecvthreadID = 2986277744 PID = 1072
+[2010-09-10 10:43:09 893638][2977885040] RecvthreadID = 2977885040 PID = 1072
+[2010-09-10 10:43:09 893803][2969492336] RecvthreadID = 2969492336 PID = 1072
+[2010-09-10 10:43:09 893988][2961099632] RecvthreadID = 2961099632 PID = 1072
+[2010-09-10 10:43:09 894161][2952706928] RecvthreadID = 2952706928 PID = 1072
+[2010-09-10 10:43:09 894329][2935921520] RecvthreadID = 2935921520 PID = 1072
+[2010-09-10 10:43:09 894495][2944314224] RecvthreadID = 2944314224 PID = 1072
+[2010-09-10 10:43:09 894664][2919136112] RecvthreadID = 2919136112 PID = 1072
+[2010-09-10 10:43:09 894832][2927528816] RecvthreadID = 2927528816 PID = 1072
+[2010-09-10 10:43:09 894999][2893958000] RecvthreadID = 2893958000 PID = 1072
+[2010-09-10 10:43:09 895162][2910743408] RecvthreadID = 2910743408 PID = 1072
+[2010-09-10 10:43:09 895333][2877172592] RecvthreadID = 2877172592 PID = 1072
+[2010-09-10 10:43:09 895499][2902350704] RecvthreadID = 2902350704 PID = 1072
+[2010-09-10 10:43:09 895687][2885565296] RecvthreadID = 2885565296 PID = 1072
+[2010-09-10 10:43:09 895854][2868779888] RecvthreadID = 2868779888 PID = 1072
+[2010-09-10 10:43:09 896067][2835209072] RecvthreadID = 2835209072 PID = 1072
+[2010-09-10 10:43:09 896237][2826816368] RecvthreadID = 2826816368 PID = 1072
+[2010-09-10 10:43:09 896864][2851994480] RecvthreadID = 2851994480 PID = 1072
+[2010-09-10 10:43:09 897041][2843601776] RecvthreadID = 2843601776 PID = 1072
+[2010-09-10 10:43:09 897184][2860387184] RecvthreadID = 2860387184 PID = 1072
+[2010-09-10 10:43:09 897347][2818423664] P_MaintainthreadID = 2818423664 PID = 1072
+[2010-09-10 10:43:19 780295][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-10 11:09:37 392538][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2010-09-10 11:09:37 392913][2868779888] RecvThread(2868779888) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393077][3045026672] RecvThread(3045026672) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393212][2843601776] RecvThread(2843601776) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393344][2944314224] RecvThread(2944314224) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393475][3061812080] RecvThread(3061812080) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393605][3028241264] RecvThread(3028241264) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393743][3019848560] RecvThread(3019848560) recv an exit notice, so exit.
+[2010-09-10 11:09:37 393874][3036633968] RecvThread(3036633968) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394002][3070204784] RecvThread(3070204784) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394163][3011455856] RecvThread(3011455856) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394291][2919136112] RecvThread(2919136112) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394418][2885565296] RecvThread(2885565296) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394546][2860387184] RecvThread(2860387184) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394673][2961099632] RecvThread(2961099632) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394798][2935921520] RecvThread(2935921520) recv an exit notice, so exit.
+[2010-09-10 11:09:37 394924][2910743408] RecvThread(2910743408) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395052][2994670448] RecvThread(2994670448) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395179][2826816368] RecvThread(2826816368) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395306][2877172592] RecvThread(2877172592) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395433][2952706928] RecvThread(2952706928) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395558][2902350704] RecvThread(2902350704) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395680][2927528816] RecvThread(2927528816) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395806][2969492336] RecvThread(2969492336) recv an exit notice, so exit.
+[2010-09-10 11:09:37 395933][3053419376] RecvThread(3053419376) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396118][2986277744] RecvThread(2986277744) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396252][3003063152] RecvThread(3003063152) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396379][2977885040] RecvThread(2977885040) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396505][2893958000] RecvThread(2893958000) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396632][2835209072] RecvThread(2835209072) recv an exit notice, so exit.
+[2010-09-10 11:09:37 396759][2851994480] RecvThread(2851994480) recv an exit notice, so exit.
+[2010-09-10 11:09:37 505388][2818423664] P_MaintainThread(2818423664) recv an exit notice, so exit.
+[2010-09-10 11:09:37 506894][2810030960] R_MaintainThread(2810030960) recv an exit notice, so exit.
+[2010-09-10 11:09:37 736599][3078597488] ConnectThread(3078597488) recv an exit notice, so exit.
+[2010-09-10 11:09:37 794112][135960656] all children exited, begin to save duty queue.
+[2010-09-10 11:09:37 794221][135960656] MainProcess confirm all children exited and exit itself.
+[2010-09-10 16:04:23 585471][135960656] newoctopusd begin to running......
+[2010-09-10 16:04:24 098414][135960656] ===Init logmng module successfully===
+[2010-09-10 16:04:24 098600][135960656] Begin to read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/common.cfg ......
+[2010-09-10 16:04:24 219978][135960656] Read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/common.cfg Successfully.
+[2010-09-10 16:04:24 220199][135960656] Begin to read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/siteinfo.cfg ......
+[2010-09-10 16:04:24 220936][135960656] Read /home/bud/newoctopusd/newoctopusd/sample/d4/cfg/siteinfo.cfg successfully.
+[2010-09-10 16:04:24 221016][135960656] ===Init configmng module successfully===
+[2010-09-10 16:04:24 221060][135960656] Begin to create ShareMem(/home/bud/newoctopusd/newoctopusd/sample/d4/bin, 0)......
+[2010-09-10 16:04:24 221134][135960656] ShareMem(id=240d8) exist, use it.
+[2010-09-10 16:04:24 221182][135960656] ===Init maintain module successfully===
+[2010-09-10 16:04:24 221221][135960656] Begin to create socket server(ALL, 21826)......
+[2010-09-10 16:04:24 221324][135960656] Create socket server(ALL, 21826) successfully
+[2010-09-10 16:04:24 221363][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2010-09-10 16:04:24 221421][135960656] ===Init queuemng module successfully===
+[2010-09-10 16:04:24 221459][135960656] Begin to create ConnectThread(1)......
+[2010-09-10 16:04:24 595463][3078654832] ConnectthreadID = 3078654832 PID = 4771
+[2010-09-10 16:04:25 006758][135960656] Begin to create RecvThread(30)......
+[2010-09-10 16:04:25 180736][3070262128] RecvthreadID = 3070262128 PID = 4771
+[2010-09-10 16:04:25 961370][2877229936] RecvthreadID = 2877229936 PID = 4771
+[2010-09-10 16:04:25 961727][2986335088] RecvthreadID = 2986335088 PID = 4771
+[2010-09-10 16:04:25 961850][2919193456] RecvthreadID = 2919193456 PID = 4771
+[2010-09-10 16:04:25 961972][2835266416] RecvthreadID = 2835266416 PID = 4771
+[2010-09-10 16:04:25 962071][2902408048] RecvthreadID = 2902408048 PID = 4771
+[2010-09-10 16:04:25 962220][3045084016] RecvthreadID = 3045084016 PID = 4771
+[2010-09-10 16:04:25 962310][2885622640] RecvthreadID = 2885622640 PID = 4771
+[2010-09-10 16:04:25 962376][3019905904] RecvthreadID = 3019905904 PID = 4771
+[2010-09-10 16:04:25 962447][3053476720] RecvthreadID = 3053476720 PID = 4771
+[2010-09-10 16:04:25 962504][3036691312] RecvthreadID = 3036691312 PID = 4771
+[2010-09-10 16:04:25 962563][2927586160] RecvthreadID = 2927586160 PID = 4771
+[2010-09-10 16:04:25 962640][2952764272] RecvthreadID = 2952764272 PID = 4771
+[2010-09-10 16:04:25 962700][2826873712] RecvthreadID = 2826873712 PID = 4771
+[2010-09-10 16:04:25 962786][2935978864] RecvthreadID = 2935978864 PID = 4771
+[2010-09-10 16:04:25 962846][2977942384] RecvthreadID = 2977942384 PID = 4771
+[2010-09-10 16:04:25 962932][2994727792] RecvthreadID = 2994727792 PID = 4771
+[2010-09-10 16:04:25 963022][3011513200] RecvthreadID = 3011513200 PID = 4771
+[2010-09-10 16:04:25 963081][3028298608] RecvthreadID = 3028298608 PID = 4771
+[2010-09-10 16:04:25 963168][2852051824] RecvthreadID = 2852051824 PID = 4771
+[2010-09-10 16:04:25 963254][2843659120] RecvthreadID = 2843659120 PID = 4771
+[2010-09-10 16:04:25 963313][2944371568] RecvthreadID = 2944371568 PID = 4771
+[2010-09-10 16:04:25 963396][2894015344] RecvthreadID = 2894015344 PID = 4771
+[2010-09-10 16:04:25 963494][2868837232] RecvthreadID = 2868837232 PID = 4771
+[2010-09-10 16:04:25 963561][2961156976] RecvthreadID = 2961156976 PID = 4771
+[2010-09-10 16:04:25 963642][2969549680] RecvthreadID = 2969549680 PID = 4771
+[2010-09-10 16:04:25 963724][3003120496] RecvthreadID = 3003120496 PID = 4771
+[2010-09-10 16:04:25 963805][2910800752] RecvthreadID = 2910800752 PID = 4771
+[2010-09-10 16:04:25 963909][2860444528] RecvthreadID = 2860444528 PID = 4771
+[2010-09-10 16:04:25 964041][3061869424] RecvthreadID = 3061869424 PID = 4771
+[2010-09-10 16:04:26 125991][135960656] Begin to create P_MaintainThread(1)......
+[2010-09-10 16:04:26 226503][2818481008] P_MaintainthreadID = 2818481008 PID = 4771
+[2010-09-10 16:04:27 097811][135960656] Begin to create R_MaintainThread(1)......
+[2010-09-10 16:04:27 098137][135960656] ===Init all child thread successfully===
+[2010-09-10 16:04:27 098246][135960656] newoctopusd(135960656) starts successfully and is running......
+[2010-09-10 16:04:27 282126][2810088304] R_MaintainthreadID = 2810088304 PID = 4771
+[2010-09-10 16:04:28 248554][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2010-09-10 16:04:38 258922][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-10 16:15:05 889016][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2010-09-10 16:15:05 889234][2952764272] RecvThread(2952764272) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889346][3019905904] RecvThread(3019905904) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889420][2826873712] RecvThread(2826873712) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889535][2944371568] RecvThread(2944371568) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889660][2986335088] RecvThread(2986335088) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889776][2868837232] RecvThread(2868837232) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889912][2969549680] RecvThread(2969549680) recv an exit notice, so exit.
+[2010-09-10 16:15:05 889991][2843659120] RecvThread(2843659120) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890101][2894015344] RecvThread(2894015344) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890169][2919193456] RecvThread(2919193456) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890254][3003120496] RecvThread(3003120496) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890336][2902408048] RecvThread(2902408048) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890402][2927586160] RecvThread(2927586160) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890474][2935978864] RecvThread(2935978864) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890559][3036691312] RecvThread(3036691312) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890647][3070262128] RecvThread(3070262128) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890746][2885622640] RecvThread(2885622640) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890828][2860444528] RecvThread(2860444528) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890887][2961156976] RecvThread(2961156976) recv an exit notice, so exit.
+[2010-09-10 16:15:05 890971][3045084016] RecvThread(3045084016) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891030][3028298608] RecvThread(3028298608) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891096][3053476720] RecvThread(3053476720) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891180][2910800752] RecvThread(2910800752) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891255][2835266416] RecvThread(2835266416) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891311][3061869424] RecvThread(3061869424) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891367][3011513200] RecvThread(3011513200) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891487][2994727792] RecvThread(2994727792) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891546][2877229936] RecvThread(2877229936) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891630][2852051824] RecvThread(2852051824) recv an exit notice, so exit.
+[2010-09-10 16:15:05 891704][2977942384] RecvThread(2977942384) recv an exit notice, so exit.
+[2010-09-10 16:15:05 931422][2810088304] R_MaintainThread(2810088304) recv an exit notice, so exit.
+[2010-09-10 16:15:06 828360][3078654832] ConnectThread(3078654832) recv an exit notice, so exit.
+[2010-09-10 16:15:06 871650][2818481008] P_MaintainThread(2818481008) recv an exit notice, so exit.
+[2010-09-10 16:15:06 891675][135960656] all children exited, begin to save duty queue.
+[2010-09-10 16:15:06 891772][135960656] MainProcess confirm all children exited and exit itself.
+[2010-09-11 14:53:34 780435][135960656] newoctopusd begin to running......
+[2010-09-11 14:53:34 793315][135960656] ===Init logmng module successfully===
+[2010-09-11 14:53:34 793478][135960656] Begin to read /home/bud/newoctopusd/octopusd/sample/d4/cfg/common.cfg ......
+[2010-09-11 14:53:35 028817][135960656] Read /home/bud/newoctopusd/octopusd/sample/d4/cfg/common.cfg Successfully.
+[2010-09-11 14:53:35 028997][135960656] Begin to read /home/bud/newoctopusd/octopusd/sample/d4/cfg/siteinfo.cfg ......
+[2010-09-11 14:53:35 029689][135960656] Read /home/bud/newoctopusd/octopusd/sample/d4/cfg/siteinfo.cfg successfully.
+[2010-09-11 14:53:35 029766][135960656] ===Init configmng module successfully===
+[2010-09-11 14:53:35 029808][135960656] Begin to create ShareMem(/home/bud/newoctopusd/octopusd/sample/d4/bin, 0)......
+[2010-09-11 14:53:35 029906][135960656] Create ShareMem(id=26509) successfully.
+[2010-09-11 14:53:35 029950][135960656] ===Init maintain module successfully===
+[2010-09-11 14:53:35 029988][135960656] Begin to create socket server(ALL, 21826)......
+[2010-09-11 14:53:35 030085][135960656] Create socket server(ALL, 21826) successfully
+[2010-09-11 14:53:35 030125][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2010-09-11 14:53:35 038247][135960656] ===Init queuemng module successfully===
+[2010-09-11 14:53:35 038435][135960656] Begin to create ConnectThread(1)......
+[2010-09-11 14:53:35 540442][3077593968] ConnectthreadID = 3077593968 PID = 5189
+[2010-09-11 14:53:39 018431][135960656] Begin to create RecvThread(30)......
+[2010-09-11 14:53:39 020281][135960656] Begin to create P_MaintainThread(1)......
+[2010-09-11 14:53:39 020416][135960656] Begin to create R_MaintainThread(1)......
+[2010-09-11 14:53:39 020519][135960656] ===Init all child thread successfully===
+[2010-09-11 14:53:39 020568][135960656] newoctopusd(135960656) starts successfully and is running......
+[2010-09-11 14:53:39 119521][3069201264] RecvthreadID = 3069201264 PID = 5189
+[2010-09-11 14:53:39 196071][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2010-09-11 14:53:39 878452][2809027440] R_MaintainthreadID = 2809027440 PID = 5189
+[2010-09-11 14:53:39 974976][2909739888] RecvthreadID = 2909739888 PID = 5189
+[2010-09-11 14:53:39 975285][2943310704] RecvthreadID = 2943310704 PID = 5189
+[2010-09-11 14:53:39 975409][3035630448] RecvthreadID = 3035630448 PID = 5189
+[2010-09-11 14:53:39 975528][2951703408] RecvthreadID = 2951703408 PID = 5189
+[2010-09-11 14:53:39 975620][3044023152] RecvthreadID = 3044023152 PID = 5189
+[2010-09-11 14:53:39 975737][2934918000] RecvthreadID = 2934918000 PID = 5189
+[2010-09-11 14:53:39 975850][3052415856] RecvthreadID = 3052415856 PID = 5189
+[2010-09-11 14:53:39 975938][2901347184] RecvthreadID = 2901347184 PID = 5189
+[2010-09-11 14:53:39 976003][2842598256] RecvthreadID = 2842598256 PID = 5189
+[2010-09-11 14:53:39 976068][2884561776] RecvthreadID = 2884561776 PID = 5189
+[2010-09-11 14:53:39 976131][2892954480] RecvthreadID = 2892954480 PID = 5189
+[2010-09-11 14:53:39 976194][3018845040] RecvthreadID = 3018845040 PID = 5189
+[2010-09-11 14:53:39 976257][2850990960] RecvthreadID = 2850990960 PID = 5189
+[2010-09-11 14:53:39 976343][3002059632] RecvthreadID = 3002059632 PID = 5189
+[2010-09-11 14:53:39 976423][2960096112] RecvthreadID = 2960096112 PID = 5189
+[2010-09-11 14:53:39 976497][2918132592] RecvthreadID = 2918132592 PID = 5189
+[2010-09-11 14:53:39 976583][3010452336] RecvthreadID = 3010452336 PID = 5189
+[2010-09-11 14:53:39 976670][2926525296] RecvthreadID = 2926525296 PID = 5189
+[2010-09-11 14:53:39 976731][3027237744] RecvthreadID = 3027237744 PID = 5189
+[2010-09-11 14:53:39 976819][3060808560] RecvthreadID = 3060808560 PID = 5189
+[2010-09-11 14:53:39 976906][2859383664] RecvthreadID = 2859383664 PID = 5189
+[2010-09-11 14:53:39 976985][2834205552] RecvthreadID = 2834205552 PID = 5189
+[2010-09-11 14:53:39 977077][2968488816] RecvthreadID = 2968488816 PID = 5189
+[2010-09-11 14:53:39 977178][2993666928] RecvthreadID = 2993666928 PID = 5189
+[2010-09-11 14:53:39 977275][2817420144] P_MaintainthreadID = 2817420144 PID = 5189
+[2010-09-11 14:53:39 977363][2976881520] RecvthreadID = 2976881520 PID = 5189
+[2010-09-11 14:53:39 977463][2985274224] RecvthreadID = 2985274224 PID = 5189
+[2010-09-11 14:53:39 977547][2867776368] RecvthreadID = 2867776368 PID = 5189
+[2010-09-11 14:53:39 977635][2876169072] RecvthreadID = 2876169072 PID = 5189
+[2010-09-11 14:53:39 977727][2825812848] RecvthreadID = 2825812848 PID = 5189
+[2010-09-11 14:53:50 347862][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-11 14:54:02 360372][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2010-09-11 14:54:02 360585][2901347184] RecvThread(2901347184) recv an exit notice, so exit.
+[2010-09-11 14:54:02 360738][2951703408] RecvThread(2951703408) recv an exit notice, so exit.
+[2010-09-11 14:54:02 360862][3060808560] RecvThread(3060808560) recv an exit notice, so exit.
+[2010-09-11 14:54:02 360983][2993666928] RecvThread(2993666928) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361104][2968488816] RecvThread(2968488816) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361225][2850990960] RecvThread(2850990960) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361373][2943310704] RecvThread(2943310704) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361496][3069201264] RecvThread(3069201264) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361616][2934918000] RecvThread(2934918000) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361738][2926525296] RecvThread(2926525296) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361859][3052415856] RecvThread(3052415856) recv an exit notice, so exit.
+[2010-09-11 14:54:02 361979][2918132592] RecvThread(2918132592) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362125][2876169072] RecvThread(2876169072) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362311][2976881520] RecvThread(2976881520) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362432][3044023152] RecvThread(3044023152) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362552][3035630448] RecvThread(3035630448) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362674][2825812848] RecvThread(2825812848) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362795][3010452336] RecvThread(3010452336) recv an exit notice, so exit.
+[2010-09-11 14:54:02 362914][2909739888] RecvThread(2909739888) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363034][3027237744] RecvThread(3027237744) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363154][2834205552] RecvThread(2834205552) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363274][3002059632] RecvThread(3002059632) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363393][2892954480] RecvThread(2892954480) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363513][2985274224] RecvThread(2985274224) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363632][3018845040] RecvThread(3018845040) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363751][2859383664] RecvThread(2859383664) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363871][2842598256] RecvThread(2842598256) recv an exit notice, so exit.
+[2010-09-11 14:54:02 363992][2884561776] RecvThread(2884561776) recv an exit notice, so exit.
+[2010-09-11 14:54:02 364112][2867776368] RecvThread(2867776368) recv an exit notice, so exit.
+[2010-09-11 14:54:02 364232][2960096112] RecvThread(2960096112) recv an exit notice, so exit.
+[2010-09-11 14:54:02 596806][3077593968] ConnectThread(3077593968) recv an exit notice, so exit.
+[2010-09-11 14:54:02 901926][2809027440] R_MaintainThread(2809027440) recv an exit notice, so exit.
+[2010-09-11 14:54:03 000948][2817420144] P_MaintainThread(2817420144) recv an exit notice, so exit.
+[2010-09-11 14:54:03 062579][135960656] all children exited, begin to save duty queue.
+[2010-09-11 14:54:03 062735][135960656] MainProcess confirm all children exited and exit itself.
+[2010-09-11 20:09:53 922920][135960656] newoctopusd begin to running......
+[2010-09-11 20:09:53 923060][135960656] ===Init logmng module successfully===
+[2010-09-11 20:09:53 923112][135960656] Begin to read /home/bud/newoctopusd/octopusd/sample/d4/cfg/common.cfg ......
+[2010-09-11 20:09:53 923715][135960656] Read /home/bud/newoctopusd/octopusd/sample/d4/cfg/common.cfg Successfully.
+[2010-09-11 20:09:53 923769][135960656] Begin to read /home/bud/newoctopusd/octopusd/sample/d4/cfg/siteinfo.cfg ......
+[2010-09-11 20:09:53 924110][135960656] Read /home/bud/newoctopusd/octopusd/sample/d4/cfg/siteinfo.cfg successfully.
+[2010-09-11 20:09:53 924183][135960656] ===Init configmng module successfully===
+[2010-09-11 20:09:53 924226][135960656] Begin to create ShareMem(/home/bud/newoctopusd/octopusd/sample/d4/bin, 0)......
+[2010-09-11 20:09:53 924430][135960656] ShareMem(id=26509) exist, use it.
+[2010-09-11 20:09:53 924627][135960656] ===Init maintain module successfully===
+[2010-09-11 20:09:53 924666][135960656] Begin to create socket server(ALL, 21826)......
+[2010-09-11 20:09:53 924790][135960656] Create socket server(ALL, 21826) successfully
+[2010-09-11 20:09:53 924830][135960656] ===Create server(ALL,21826) socket listen successfully===
+[2010-09-11 20:09:53 924881][135960656] ===Init queuemng module successfully===
+[2010-09-11 20:09:53 924919][135960656] Begin to create ConnectThread(1)......
+[2010-09-11 20:09:53 925017][135960656] Begin to create RecvThread(30)......
+[2010-09-11 20:09:53 926066][135960656] Begin to create P_MaintainThread(1)......
+[2010-09-11 20:09:53 926353][135960656] Begin to create R_MaintainThread(1)......
+[2010-09-11 20:09:53 926512][135960656] ===Init all child thread successfully===
+[2010-09-11 20:09:53 935938][135960656] newoctopusd(135960656) starts successfully and is running......
+[2010-09-11 20:09:53 936159][135960656] Send message:章鱼报警[PleaseAddFlagName][ALL]系统启动成功，运行中...... to 13827437434
+[2010-09-11 20:09:54 025157][3078749040] ConnectthreadID = 3078749040 PID = 3600
+[2010-09-11 20:09:54 026560][2818575216] P_MaintainthreadID = 2818575216 PID = 3600
+[2010-09-11 20:09:54 035842][2885716848] RecvthreadID = 2885716848 PID = 3600
+[2010-09-11 20:09:54 036082][2810182512] R_MaintainthreadID = 2810182512 PID = 3600
+[2010-09-11 20:09:54 036250][3070356336] RecvthreadID = 3070356336 PID = 3600
+[2010-09-11 20:09:54 036414][3028392816] RecvthreadID = 3028392816 PID = 3600
+[2010-09-11 20:09:54 036622][2902502256] RecvthreadID = 2902502256 PID = 3600
+[2010-09-11 20:09:54 037016][2910894960] RecvthreadID = 2910894960 PID = 3600
+[2010-09-11 20:09:54 037639][2860538736] RecvthreadID = 2860538736 PID = 3600
+[2010-09-11 20:09:54 037768][2826967920] RecvthreadID = 2826967920 PID = 3600
+[2010-09-11 20:09:54 037934][2986429296] RecvthreadID = 2986429296 PID = 3600
+[2010-09-11 20:09:54 038083][3036785520] RecvthreadID = 3036785520 PID = 3600
+[2010-09-11 20:09:54 038272][3045178224] RecvthreadID = 3045178224 PID = 3600
+[2010-09-11 20:09:54 038403][3061963632] RecvthreadID = 3061963632 PID = 3600
+[2010-09-11 20:09:54 038566][2961251184] RecvthreadID = 2961251184 PID = 3600
+[2010-09-11 20:09:54 038742][2936073072] RecvthreadID = 2936073072 PID = 3600
+[2010-09-11 20:09:54 038901][3003214704] RecvthreadID = 3003214704 PID = 3600
+[2010-09-11 20:09:54 039066][2994822000] RecvthreadID = 2994822000 PID = 3600
+[2010-09-11 20:09:54 039228][3011607408] RecvthreadID = 3011607408 PID = 3600
+[2010-09-11 20:09:54 039390][2978036592] RecvthreadID = 2978036592 PID = 3600
+[2010-09-11 20:09:54 039549][2944465776] RecvthreadID = 2944465776 PID = 3600
+[2010-09-11 20:09:54 039714][2843753328] RecvthreadID = 2843753328 PID = 3600
+[2010-09-11 20:09:54 039880][3053570928] RecvthreadID = 3053570928 PID = 3600
+[2010-09-11 20:09:54 040042][2894109552] RecvthreadID = 2894109552 PID = 3600
+[2010-09-11 20:09:54 040206][3020000112] RecvthreadID = 3020000112 PID = 3600
+[2010-09-11 20:09:54 040369][2919287664] RecvthreadID = 2919287664 PID = 3600
+[2010-09-11 20:09:54 040530][2969643888] RecvthreadID = 2969643888 PID = 3600
+[2010-09-11 20:09:54 040692][2927680368] RecvthreadID = 2927680368 PID = 3600
+[2010-09-11 20:09:54 040857][2835360624] RecvthreadID = 2835360624 PID = 3600
+[2010-09-11 20:09:54 041022][2952858480] RecvthreadID = 2952858480 PID = 3600
+[2010-09-11 20:09:54 041182][2868931440] RecvthreadID = 2868931440 PID = 3600
+[2010-09-11 20:09:54 041347][2852146032] RecvthreadID = 2852146032 PID = 3600
+[2010-09-11 20:09:54 041512][2877324144] RecvthreadID = 2877324144 PID = 3600
+[2010-09-11 20:10:03 946759][135960656] Connect to Server(172.16.19.55) failed, checksocket timeout.
+[2010-09-11 20:11:03 007608][135960656] MainProcess recv a exit notice and forward it to its 33 children.
+[2010-09-11 20:11:03 008042][2835360624] RecvThread(2835360624) recv an exit notice, so exit.
+[2010-09-11 20:11:03 008308][2994822000] RecvThread(2994822000) recv an exit notice, so exit.
+[2010-09-11 20:11:03 008553][3070356336] RecvThread(3070356336) recv an exit notice, so exit.
+[2010-09-11 20:11:03 008670][3028392816] RecvThread(3028392816) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009039][2902502256] RecvThread(2902502256) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009098][2860538736] RecvThread(2860538736) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009364][3020000112] RecvThread(3020000112) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009423][2978036592] RecvThread(2978036592) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009481][3036785520] RecvThread(3036785520) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009726][3061963632] RecvThread(3061963632) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009785][3003214704] RecvThread(3003214704) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009904][2936073072] RecvThread(2936073072) recv an exit notice, so exit.
+[2010-09-11 20:11:03 009964][2961251184] RecvThread(2961251184) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010046][2852146032] RecvThread(2852146032) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010103][2885716848] RecvThread(2885716848) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010213][2868931440] RecvThread(2868931440) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010381][2927680368] RecvThread(2927680368) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010439][2919287664] RecvThread(2919287664) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010506][2969643888] RecvThread(2969643888) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010737][3011607408] RecvThread(3011607408) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010827][2894109552] RecvThread(2894109552) recv an exit notice, so exit.
+[2010-09-11 20:11:03 010944][3045178224] RecvThread(3045178224) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011010][2986429296] RecvThread(2986429296) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011319][2826967920] RecvThread(2826967920) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011414][2843753328] RecvThread(2843753328) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011505][2944465776] RecvThread(2944465776) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011659][2910894960] RecvThread(2910894960) recv an exit notice, so exit.
+[2010-09-11 20:11:03 011745][2952858480] RecvThread(2952858480) recv an exit notice, so exit.
+[2010-09-11 20:11:03 012006][2877324144] RecvThread(2877324144) recv an exit notice, so exit.
+[2010-09-11 20:11:03 012310][3053570928] RecvThread(3053570928) recv an exit notice, so exit.
+[2010-09-11 20:11:03 096531][2818575216] P_MaintainThread(2818575216) recv an exit notice, so exit.
+[2010-09-11 20:11:03 106648][2810182512] R_MaintainThread(2810182512) recv an exit notice, so exit.
+[2010-09-11 20:11:03 168879][3078749040] ConnectThread(3078749040) recv an exit notice, so exit.
+[2010-09-11 20:11:03 209923][135960656] all children exited, begin to save duty queue.
+[2010-09-11 20:11:03 210048][135960656] MainProcess confirm all children exited and exit itself.

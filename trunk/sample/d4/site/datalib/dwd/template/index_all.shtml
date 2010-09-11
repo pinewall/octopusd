@@ -1,0 +1,54 @@
+<html>
+<head>
+<title></title>
+<script langue="javascript">
+function js_Search()
+{
+formSearch.action="/cgi-bin/search";
+formSearch.method="post";
+formSearch.submit();}
+</script>
+</head>
+<body>
+<table width="477" align="center" border="0" cellpadding="0" cellspacing="1">
+<form id="formSearch" name="formSearch" method="post" action=>
+<tr align="center">
+<td width="100" bgcolor="#CECECE">快速检索</td>
+<td width="40">$Class1Name$:          </td>
+<td width="100"><select name="area" style="width:90px; font-size:12px;">
+<option value="">—请选择—</option>
+$Option$
+</select></td>
+<td width="54">关键字:</td>
+<td width="100"><input type="text" name="keyvalue" style="width:100px; font-size:12px;" value="$KeyValue$"></td>
+<td width="83"><input name="Submit" type="button" value="搜索" height="16px;" onclick="js_Search()"></td>
+</tr>
+<input name="libid" type="hidden" value="3">
+</form>
+<!--$listheadbegin$-->
+<tr>
+<td colspan="6" bgcolor="#EEEEEE">$Letter$</td>
+</tr>
+<!--$listheadend$-->
+<!--$listdetailbegin$-->
+<tr align="left">
+<td colspan="2" width="159"><a href="$Url1$" target="_blank">$Name1$</a></td>
+<td colspan="2" width="159"><a href="$Url2$" target="_blank">$Name2$</a></td>
+<td colspan="2" width="159"><a href="$Url3$" target="_blank">$Name3$</a></td>
+</tr>
+<!--$listdetailend$-->
+<!--$listdetailbegin2$-->
+<tr align="left">
+<td colspan="2" width="159"><a href="$Url1$" target="_blank">$Name1$</a></td>
+<td colspan="2" width="159"><a href="$Url2$" target="_blank">$Name2$</a></td>
+<td colspan="2" width="159"><a href="$Url3$" target="_blank">$Name3$</a></td>
+</tr>
+<!--$listdetailend2$-->
+<!--$errmsgbegin$-->
+<tr>
+<td colspan="6" align="center">对不起，没有符合搜索条件的记录!</td>
+</tr>
+<!--$errmsgend$-->
+</table>
+</body>
+</html>

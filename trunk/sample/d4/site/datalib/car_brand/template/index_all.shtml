@@ -1,0 +1,204 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<meta name="keywords" content="汽车报价,价格,参数,配置,购车贷款,购车保险,计算工具,导购,评测,降价,保养维护,汽车图片,汽车论坛">
+<meta name="description" content="腾讯车型库,提供国内最新最丰富的汽车资料及汽车报价信息，大量实拍车型图片，还包含汽车导购和购车费用计算等实用功能。">
+<title>车型库_汽车报价|导购|图片|评测|维修|论坛_腾讯汽车</title>
+<link href="http://auto.qq.com/css/datalib/autodata.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/common.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/search.js"></script>
+<script type="text/javascript" src="http://auto.qq.com/js/datalib/brand_index.js"></script>
+<script>
+if(window.location.href.indexOf("data.auto.qq.com") == -1 && window.location.href.indexOf("datalib.cq.qq.com") == -1 && window.location.href.indexOf("datalib.qqinternal.com") == -1)
+{
+	window.location.href="http://data.auto.qq.com/car_brand/index.shtml";
+}
+</script>
+</head>
+
+<body>
+<!--#include virtual="/car_public/1/top.htm"-->
+<div id="first1">
+<!--#include virtual="/car_public/1/index_top_search.htm"-->
+  </div>
+<div id="first" style="height:0;font:0/0;"></div>
+<div id="first2">
+	<table width="908" border="0" align="center" cellpadding="0" cellspacing="0" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a14.gif">
+  		<tr>
+    		<td height="42" align="center"><table width="860" border="0" cellspacing="0" cellpadding="0">
+              <tr align="left">
+                <td width="86" class="fontbold">按车型搜索：</td>
+                <td width="192">选择价位 
+                  <select name="sltPriceArea" id="sltPriceArea" style="width:122px;" onchange="setBrandList(this.value)">
+                    <option selected>所有价位</option>
+					<option value="5万以下">5万以下</option>
+					<option value="5-10万">5-10万</option>
+					<option value="10-15万">10-15万</option>
+					<option value="15-20万">15-20万</option>
+					<option value="20-30万">20-30万</option>
+					<option value="30-50万">30-50万</option>
+					<option value="50万以上">50万以上</option>					
+                  </select>
+			    </td>
+                <td width="200">选择品牌
+                  <select name="sltBrand" id="sltBrand" style="width:128px;" onchange="setModelList($('sltPriceArea').value,this.value)">
+                    <option>国内\国外品牌</option>
+                   
+                  </select>
+                </td>
+                <td width="263">选择车型
+                  <select name="sltModel" id="sltModel" style="width:188px;" disabled>
+                    <option>请选择</option>
+                  </select>
+<script>initBrandList();</script>
+                </td>
+                <td width="122"><a href="#" OnClick="return sltSearch();"><img src="http://mat1.qq.com/auto/datalib/new_lib/botton_02.gif" width="51" height="20" border="0" /></a></td>
+              </tr>
+            </table>
+</td>
+  		</tr>
+  		<tr>
+  		  <td align="center"><table width="860" border="0" cellpadding="0" cellspacing="0" id="search_p">
+            <tr align="left">
+              <td width="86" height="27" class="fontbold">按价位搜索：</td>
+              <td width="68"><a href="http://auto.qq.com/a/20071024/000057.htm" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/ico_01.gif" alt="轿车名词解释" width="47" height="20" border="0" /></a></td>
+              <td width="68" class="fontbold fontgrey"><a href="http://auto.qq.com/a/20071024/000057.htm" target="_blank"  title="名词解释"><span class="fontgrey nl" style=" text-decoration:none">轿车</span></a>：</td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|5万以下|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">5万以下</a></td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|5-10万|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">5-10万</a></td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|10-15万|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">10-15万</a></td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|15-20万|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">15-20万</a></td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|20-30万|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">20-30万</a></td>
+              <td width="78"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|30-50万|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">30-50万</a></td>
+              <td width="120"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|50万以上|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1836|1834" target="_blank">50万以上</a></td>
+              <td width="128"><a href="/cgi-bin/search?libid=88&FilterValueAND=微型车,小型车,紧凑型车,中型车,中大型车,豪华车,跑车|在产&FilterAttrAND=1838,1838,1838,1838,1838,1838,1838|1834" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/botton_03.gif" width="72" height="19" border="0" /></a></td>
+            </tr>
+            <tr align="left">
+              <td height="27"></td>
+              <td><a href="http://auto.qq.com/a/20071024/000250.htm" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/ico_02.gif" alt="SUV名词解释" width="47" height="20" border="0" /></a></td>
+              <td class="fontbold fontgrey"><a href="http://auto.qq.com/a/20071024/000250.htm" target="_blank" title="名词解释"><span class="ver fontgrey" style=" text-decoration:none">SUV</span></a>：</td>
+              <td class="fontgrey1">5万以下</td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|5-10万|在产&FilterAttrAND=1838|1836|1834" target="_blank">5-10万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|10-15万|在产&FilterAttrAND=1838|1836|1834" target="_blank">10-15万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|15-20万|在产&FilterAttrAND=1838|1836|1834" target="_blank">15-20万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|20-30万|在产&FilterAttrAND=1838|1836|1834" target="_blank">20-30万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|30-50万|在产&FilterAttrAND=1838|1836|1834" target="_blank">30-50万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|50万以上|在产&FilterAttrAND=1838|1836|1834" target="_blank">50万以上</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=SUV|在产&FilterAttrAND=1838|1834" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/botton_03.gif" width="72" height="19" border="0" /></a></td>
+            </tr>
+            <tr align="left">
+              <td height="26"></td>
+              <td><a href="http://auto.qq.com/a/20071024/000254.htm" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/ico_03.gif" alt="MPV名词解释" width="47" height="20" border="0" /></a></td>
+              <td class="fontbold fontgrey"><a href="http://auto.qq.com/a/20071024/000254.htm" target="_blank" title="名词解释"><span class="ver fontgrey" style=" text-decoration:none">MPV</span></a>：</td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|5万以下|在产&FilterAttrAND=1838|1836|1834" target="_blank">5万以下</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|5-10万|在产&FilterAttrAND=1838|1836|1834" target="_blank">5-10万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|10-15万|在产&FilterAttrAND=1838|1836|1834" target="_blank">10-15万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|15-20万|在产&FilterAttrAND=1838|1836|1834" target="_blank">15-20万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|20-30万|在产&FilterAttrAND=1838|1836|1834" target="_blank">20-30万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|30-50万|在产&FilterAttrAND=1838|1836|1834" target="_blank">30-50万</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|50万以上|在产&FilterAttrAND=1838|1836|1834" target="_blank">50万以上</a></td>
+              <td><a href="/cgi-bin/search?libid=88&FilterValueAND=MPV|在产&FilterAttrAND=1838|1834" target="_blank"><img src="http://mat1.qq.com/auto/datalib/new_lib/botton_03.gif" width="72" height="19" border="0" /></a></td>
+            </tr>
+          </table></td>
+	  </tr>
+	</table>
+</div>
+<div id="first">
+	<table width="910" border="0" cellpadding="0" cellspacing="0">
+  		<tr>
+
+    		<td><table width="910" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="35" height="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"></td>
+                <td width="68" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px">推荐车型</td>
+                <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+                <td width="773" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif"></td>
+                <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+              </tr>
+            </table></td>
+  		</tr>
+  		<tr>
+  		  <td align="center">
+		  <!--#include virtual="/car_public/1/recommand_serial.htm"-->
+		  </td>
+	  </tr>
+  </table>
+</div>
+<div id="first">
+  <div id="first_left">
+  <table width="673" border="0" cellpadding="0" cellspacing="0" class="marb8">
+        <tr>
+          <td><table width="673" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="35" height="28" valign="top" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"><a name="n"></a></td>
+              <td width="68" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px">国内车型</td>
+              <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+              <td width="536" align="right" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontl24" id="disp_internal_total"><a href="#y" class="fontgrey nl">查看国外车型&gt;&gt;</a></td>
+              <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td align="center" valign="top" class="tdk01nt"><table width="671" border="0" cellspacing="0" cellpadding="0" id="fods">
+            <tr>
+              <td height="32" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/cardbg.gif" id="Fod_list"><p style="float:left;width:20px;"></p>
+                  <div onclick="foda(this)" class="sa" style="width:98px;"> 按品牌分类</div>
+                <p></p>
+			  <div onclick="foda(this);dispSerialLetter('all');" class="carda" style="width:98px;">按拼音排序</div>
+			  <span style="float:left;width:428px;text-align:right;padding-top:3px;"><img src="http://mat1.qq.com/auto/datalib/new_lib/ico_hot.gif" width="9" height="11" /> 热门车型　<img src="http://mat1.qq.com/auto/datalib/new_lib/ico_new.gif" width="9" height="11" /> 最新车型</span></td>
+            </tr>
+            <tr>
+              <td align="center">
+			  <!--#include virtual="/car_public/1/internal_brand_list.htm"-->
+			  <!--#include virtual="/car_public/1/serial_letter_list.htm"-->
+			  </td>
+            </tr>
+          </table></td>
+        </tr>
+    </table>
+	  <table width="606" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td><table width="673" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="35" height="28" valign="top" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a21.gif"><a name="y"></a></td>
+                <td width="68" valign="bottom" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a22.gif" class="fontbold fontl26 font14px">国外车型</td>
+                <td width="28" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a23.gif"></td>
+                <td width="536" align="right" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a24.gif" class="fontl24" id="disp_abroad_total"><a href="#n" class="fontgrey nl">查看国内车型&gt;&gt;</a></td>
+                <td width="6" background="http://mat1.qq.com/auto/datalib/new_lib/bg_a25.gif"></td>
+              </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="" align="center" valign="top" bgcolor="#f6f6f6" class="tdk01nt">
+		  <!--#include virtual="/car_public/1/abroad_brand_list_bottom.htm"-->
+		  </td>
+        </tr>
+      </table>
+  </div>
+	<div id="first_right">
+	<!--#include virtual="/car_public/1/right_xiangdao.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_5w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_10w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_15w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_20w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_30w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_50w.htm"-->
+	<!--#include virtual="/car_public/1/pgv_rank_51w.htm"-->
+	</div>
+</div>
+<div id="first">
+	<!--#include virtual="/car_public/1/foot.htm"-->
+   </div>
+</body>
+</html>
+<!--$listheadbegin$--><!--$listheadend$--><!--$listdetailbegin$--><!--$listdetailend$--><!--$listdetailbegin2$--><!--$listdetailend2$--><!--$errmsgbegin$--><!--$errmsgend$-->
+
+
+
+
+
+
+
+
+
+
+
