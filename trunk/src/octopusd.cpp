@@ -164,7 +164,6 @@ int main(int argc, char* argv[])
         g_mapThread2pid[piD] = 0;  //threadid 2 pid    
 
         //****** BEGIN 这一块，只有当有分发队列的时候才建立，没有的时候不处理 ****** 
-/*
         if (0 != g_insConfigMng.m_tComCfg.m_iDistributeFlag)
         {
                 //[10.2.3]建立维护线程F，这个属于维护线程系列，但是这个线程当没有分发任务时,无需工作
@@ -197,7 +196,6 @@ int main(int argc, char* argv[])
                 g_mapThread2pid[piD] = 0;  //threadid 2 pid
                 
         }
-*/        
         // ****** END ******       
 
         g_insLogMng.normal("===Init all child thread successfully===");
