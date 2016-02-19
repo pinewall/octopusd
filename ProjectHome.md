@@ -1,0 +1,1 @@
+A File Distributer. Used by CMS. It support send file by domain name. And File will auto distribute from one machine  to more machine which grouped by domain.
